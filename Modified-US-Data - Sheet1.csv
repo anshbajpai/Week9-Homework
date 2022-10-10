@@ -1,0 +1,2712 @@
+state,county,candidate,party,total_votes,won
+Florida,Alachua County,Joe Biden,DEM,89704,TRUE
+Florida,Alachua County,Donald Trump,REP,50972,FALSE
+Florida,Alachua County,Jo Jorgensen,LIB,1390,FALSE
+Florida,Alachua County,Howie Hawkins,GRN,302,FALSE
+Florida,Alachua County,Gloria La Riva,PSL,94,FALSE
+Florida,Alachua County,Rocky De La Fuente,ALI,70,FALSE
+Florida,Alachua County,Don Blankenship,CST,52,FALSE
+Florida,Alachua County,Write-ins,WRI,20,FALSE
+Florida,Baker County,Donald Trump,REP,11911,TRUE
+Florida,Baker County,Joe Biden,DEM,2037,FALSE
+Florida,Baker County,Jo Jorgensen,LIB,93,FALSE
+Florida,Baker County,Howie Hawkins,GRN,10,FALSE
+Florida,Baker County,Rocky De La Fuente,ALI,4,FALSE
+Florida,Baker County,Gloria La Riva,PSL,3,FALSE
+Florida,Baker County,Don Blankenship,CST,1,FALSE
+Florida,Baker County,Write-ins,WRI,0,FALSE
+Florida,Bay County,Donald Trump,REP,66097,TRUE
+Florida,Bay County,Joe Biden,DEM,25614,FALSE
+Florida,Bay County,Jo Jorgensen,LIB,1004,FALSE
+Florida,Bay County,Howie Hawkins,GRN,142,FALSE
+Florida,Bay County,Rocky De La Fuente,ALI,54,FALSE
+Florida,Bay County,Don Blankenship,CST,52,FALSE
+Florida,Bay County,Gloria La Riva,PSL,45,FALSE
+Florida,Bay County,Write-ins,WRI,16,FALSE
+Florida,Bradford County,Donald Trump,REP,10334,TRUE
+Florida,Bradford County,Joe Biden,DEM,3160,FALSE
+Florida,Bradford County,Jo Jorgensen,LIB,110,FALSE
+Florida,Bradford County,Howie Hawkins,GRN,11,FALSE
+Florida,Bradford County,Rocky De La Fuente,ALI,7,FALSE
+Florida,Bradford County,Don Blankenship,CST,6,FALSE
+Florida,Bradford County,Gloria La Riva,PSL,3,FALSE
+Florida,Bradford County,Write-ins,WRI,1,FALSE
+Florida,Brevard County,Donald Trump,REP,207883,TRUE
+Florida,Brevard County,Joe Biden,DEM,148549,FALSE
+Florida,Brevard County,Jo Jorgensen,LIB,3178,FALSE
+Florida,Brevard County,Howie Hawkins,GRN,553,FALSE
+Florida,Brevard County,Rocky De La Fuente,ALI,222,FALSE
+Florida,Brevard County,Don Blankenship,CST,171,FALSE
+Florida,Brevard County,Gloria La Riva,PSL,164,FALSE
+Florida,Brevard County,Write-ins,WRI,44,FALSE
+Florida,Broward County,Joe Biden,DEM,618752,TRUE
+Florida,Broward County,Donald Trump,REP,333409,FALSE
+Florida,Broward County,Jo Jorgensen,LIB,3114,FALSE
+Florida,Broward County,Howie Hawkins,GRN,1253,FALSE
+Florida,Broward County,Rocky De La Fuente,ALI,426,FALSE
+Florida,Broward County,Gloria La Riva,PSL,417,FALSE
+Florida,Broward County,Don Blankenship,CST,238,FALSE
+Florida,Broward County,Write-ins,WRI,63,FALSE
+Florida,Calhoun County,Donald Trump,REP,5274,TRUE
+Florida,Calhoun County,Joe Biden,DEM,1209,FALSE
+Florida,Calhoun County,Jo Jorgensen,LIB,29,FALSE
+Florida,Calhoun County,Rocky De La Fuente,ALI,4,FALSE
+Florida,Calhoun County,Howie Hawkins,GRN,4,FALSE
+Florida,Calhoun County,Gloria La Riva,PSL,4,FALSE
+Florida,Calhoun County,Don Blankenship,CST,2,FALSE
+Florida,Calhoun County,Write-ins,WRI,0,FALSE
+Florida,Charlotte County,Donald Trump,REP,73243,TRUE
+Florida,Charlotte County,Joe Biden,DEM,42273,FALSE
+Florida,Charlotte County,Jo Jorgensen,LIB,565,FALSE
+Florida,Charlotte County,Howie Hawkins,GRN,129,FALSE
+Florida,Charlotte County,Rocky De La Fuente,ALI,49,FALSE
+Florida,Charlotte County,Don Blankenship,CST,45,FALSE
+Florida,Charlotte County,Gloria La Riva,PSL,32,FALSE
+Florida,Charlotte County,Write-ins,WRI,4,FALSE
+Florida,Citrus County,Donald Trump,REP,65352,TRUE
+Florida,Citrus County,Joe Biden,DEM,27092,FALSE
+Florida,Citrus County,Jo Jorgensen,LIB,548,FALSE
+Florida,Citrus County,Howie Hawkins,GRN,86,FALSE
+Florida,Citrus County,Don Blankenship,CST,49,FALSE
+Florida,Citrus County,Rocky De La Fuente,ALI,42,FALSE
+Florida,Citrus County,Gloria La Riva,PSL,30,FALSE
+Florida,Citrus County,Write-ins,WRI,9,FALSE
+Florida,Clay County,Donald Trump,REP,84480,TRUE
+Florida,Clay County,Joe Biden,DEM,38317,FALSE
+Florida,Clay County,Jo Jorgensen,LIB,1286,FALSE
+Florida,Clay County,Howie Hawkins,GRN,153,FALSE
+Florida,Clay County,Don Blankenship,CST,57,FALSE
+Florida,Clay County,Gloria La Riva,PSL,55,FALSE
+Florida,Clay County,Rocky De La Fuente,ALI,45,FALSE
+Florida,Clay County,Write-ins,WRI,12,FALSE
+Florida,Collier County,Donald Trump,REP,128950,TRUE
+Florida,Collier County,Joe Biden,DEM,77621,FALSE
+Florida,Collier County,Jo Jorgensen,LIB,889,FALSE
+Florida,Collier County,Howie Hawkins,GRN,186,FALSE
+Florida,Collier County,Rocky De La Fuente,ALI,64,FALSE
+Florida,Collier County,Gloria La Riva,PSL,50,FALSE
+Florida,Collier County,Don Blankenship,CST,39,FALSE
+Florida,Collier County,Write-ins,WRI,19,FALSE
+Florida,Columbia County,Donald Trump,REP,23836,TRUE
+Florida,Columbia County,Joe Biden,DEM,8914,FALSE
+Florida,Columbia County,Jo Jorgensen,LIB,224,FALSE
+Florida,Columbia County,Howie Hawkins,GRN,28,FALSE
+Florida,Columbia County,Gloria La Riva,PSL,20,FALSE
+Florida,Columbia County,Rocky De La Fuente,ALI,12,FALSE
+Florida,Columbia County,Don Blankenship,CST,8,FALSE
+Florida,Columbia County,Write-ins,WRI,0,FALSE
+Florida,DeSoto County,Donald Trump,REP,8313,TRUE
+Florida,DeSoto County,Joe Biden,DEM,4259,FALSE
+Florida,DeSoto County,Jo Jorgensen,LIB,52,FALSE
+Florida,DeSoto County,Rocky De La Fuente,ALI,12,FALSE
+Florida,DeSoto County,Gloria La Riva,PSL,11,FALSE
+Florida,DeSoto County,Howie Hawkins,GRN,8,FALSE
+Florida,DeSoto County,Don Blankenship,CST,4,FALSE
+Florida,DeSoto County,Write-ins,WRI,0,FALSE
+Florida,Dixie County,Donald Trump,REP,6759,TRUE
+Florida,Dixie County,Joe Biden,DEM,1365,FALSE
+Florida,Dixie County,Jo Jorgensen,LIB,27,FALSE
+Florida,Dixie County,Rocky De La Fuente,ALI,5,FALSE
+Florida,Dixie County,Howie Hawkins,GRN,5,FALSE
+Florida,Dixie County,Don Blankenship,CST,4,FALSE
+Florida,Dixie County,Gloria La Riva,PSL,2,FALSE
+Florida,Duval County,Joe Biden,DEM,252556,TRUE
+Florida,Duval County,Donald Trump,REP,233762,FALSE
+Florida,Duval County,Jo Jorgensen,LIB,4788,FALSE
+Florida,Duval County,Howie Hawkins,GRN,772,FALSE
+Florida,Duval County,Gloria La Riva,PSL,328,FALSE
+Florida,Duval County,Rocky De La Fuente,ALI,319,FALSE
+Florida,Duval County,Don Blankenship,CST,218,FALSE
+Florida,Duval County,Write-ins,WRI,77,FALSE
+Florida,Escambia County,Donald Trump,REP,96674,TRUE
+Florida,Escambia County,Joe Biden,DEM,70929,FALSE
+Florida,Escambia County,Jo Jorgensen,LIB,2146,FALSE
+Florida,Escambia County,Howie Hawkins,GRN,256,FALSE
+Florida,Escambia County,Gloria La Riva,PSL,137,FALSE
+Florida,Escambia County,Rocky De La Fuente,ALI,105,FALSE
+Florida,Escambia County,Don Blankenship,CST,92,FALSE
+Florida,Escambia County,Write-ins,WRI,33,FALSE
+Florida,Flagler County,Donald Trump,REP,43043,TRUE
+Florida,Flagler County,Joe Biden,DEM,28161,FALSE
+Florida,Flagler County,Jo Jorgensen,LIB,359,FALSE
+Florida,Flagler County,Howie Hawkins,GRN,69,FALSE
+Florida,Flagler County,Rocky De La Fuente,ALI,30,FALSE
+Florida,Flagler County,Gloria La Riva,PSL,29,FALSE
+Florida,Flagler County,Don Blankenship,CST,20,FALSE
+Florida,Flagler County,Write-ins,WRI,5,FALSE
+Florida,Franklin County,Donald Trump,REP,4675,TRUE
+Florida,Franklin County,Joe Biden,DEM,2120,FALSE
+Florida,Franklin County,Jo Jorgensen,LIB,27,FALSE
+Florida,Franklin County,Howie Hawkins,GRN,12,FALSE
+Florida,Franklin County,Gloria La Riva,PSL,8,FALSE
+Florida,Franklin County,Rocky De La Fuente,ALI,4,FALSE
+Florida,Franklin County,Don Blankenship,CST,3,FALSE
+Florida,Gadsden County,Joe Biden,DEM,16153,TRUE
+Florida,Gadsden County,Donald Trump,REP,7465,FALSE
+Florida,Gadsden County,Jo Jorgensen,LIB,96,FALSE
+Florida,Gadsden County,Howie Hawkins,GRN,21,FALSE
+Florida,Gadsden County,Gloria La Riva,PSL,10,FALSE
+Florida,Gadsden County,Don Blankenship,CST,9,FALSE
+Florida,Gadsden County,Rocky De La Fuente,ALI,8,FALSE
+Florida,Gilchrist County,Donald Trump,REP,7895,TRUE
+Florida,Gilchrist County,Joe Biden,DEM,1700,FALSE
+Florida,Gilchrist County,Jo Jorgensen,LIB,61,FALSE
+Florida,Gilchrist County,Howie Hawkins,GRN,13,FALSE
+Florida,Gilchrist County,Rocky De La Fuente,ALI,6,FALSE
+Florida,Gilchrist County,Don Blankenship,CST,5,FALSE
+Florida,Gilchrist County,Write-ins,WRI,3,FALSE
+Florida,Gilchrist County,Gloria La Riva,PSL,2,FALSE
+Florida,Glades County,Donald Trump,REP,3782,TRUE
+Florida,Glades County,Joe Biden,DEM,1385,FALSE
+Florida,Glades County,Jo Jorgensen,LIB,21,FALSE
+Florida,Glades County,Howie Hawkins,GRN,4,FALSE
+Florida,Glades County,Gloria La Riva,PSL,1,FALSE
+Florida,Glades County,Don Blankenship,CST,0,FALSE
+Florida,Glades County,Rocky De La Fuente,ALI,0,FALSE
+Florida,Gulf County,Donald Trump,REP,6113,TRUE
+Florida,Gulf County,Joe Biden,DEM,1985,FALSE
+Florida,Gulf County,Jo Jorgensen,LIB,48,FALSE
+Florida,Gulf County,Don Blankenship,CST,6,FALSE
+Florida,Gulf County,Rocky De La Fuente,ALI,6,FALSE
+Florida,Gulf County,Howie Hawkins,GRN,5,FALSE
+Florida,Gulf County,Gloria La Riva,PSL,0,FALSE
+Florida,Gulf County,Write-ins,WRI,0,FALSE
+Florida,Hamilton County,Donald Trump,REP,3815,TRUE
+Florida,Hamilton County,Joe Biden,DEM,1963,FALSE
+Florida,Hamilton County,Jo Jorgensen,LIB,33,FALSE
+Florida,Hamilton County,Howie Hawkins,GRN,8,FALSE
+Florida,Hamilton County,Rocky De La Fuente,ALI,6,FALSE
+Florida,Hamilton County,Don Blankenship,CST,2,FALSE
+Florida,Hamilton County,Gloria La Riva,PSL,2,FALSE
+Florida,Hamilton County,Write-ins,WRI,1,FALSE
+Florida,Hardee County,Donald Trump,REP,6122,TRUE
+Florida,Hardee County,Joe Biden,DEM,2298,FALSE
+Florida,Hardee County,Jo Jorgensen,LIB,40,FALSE
+Florida,Hardee County,Rocky De La Fuente,ALI,10,FALSE
+Florida,Hardee County,Howie Hawkins,GRN,8,FALSE
+Florida,Hardee County,Gloria La Riva,PSL,6,FALSE
+Florida,Hardee County,Don Blankenship,CST,1,FALSE
+Florida,Hendry County,Donald Trump,REP,7906,TRUE
+Florida,Hendry County,Joe Biden,DEM,4929,FALSE
+Florida,Hendry County,Jo Jorgensen,LIB,65,FALSE
+Florida,Hendry County,Howie Hawkins,GRN,13,FALSE
+Florida,Hendry County,Rocky De La Fuente,ALI,11,FALSE
+Florida,Hendry County,Gloria La Riva,PSL,8,FALSE
+Florida,Hendry County,Don Blankenship,CST,7,FALSE
+Florida,Hendry County,Write-ins,WRI,1,FALSE
+Florida,Hernando County,Donald Trump,REP,70412,TRUE
+Florida,Hernando County,Joe Biden,DEM,37519,FALSE
+Florida,Hernando County,Jo Jorgensen,LIB,686,FALSE
+Florida,Hernando County,Howie Hawkins,GRN,151,FALSE
+Florida,Hernando County,Rocky De La Fuente,ALI,62,FALSE
+Florida,Hernando County,Gloria La Riva,PSL,44,FALSE
+Florida,Hernando County,Don Blankenship,CST,40,FALSE
+Florida,Hernando County,Write-ins,WRI,8,FALSE
+Florida,Highlands County,Donald Trump,REP,34873,TRUE
+Florida,Highlands County,Joe Biden,DEM,16938,FALSE
+Florida,Highlands County,Jo Jorgensen,LIB,223,FALSE
+Florida,Highlands County,Howie Hawkins,GRN,53,FALSE
+Florida,Highlands County,Don Blankenship,CST,28,FALSE
+Florida,Highlands County,Rocky De La Fuente,ALI,28,FALSE
+Florida,Highlands County,Gloria La Riva,PSL,24,FALSE
+Florida,Highlands County,Write-ins,WRI,3,FALSE
+Florida,Hillsborough County,Joe Biden,DEM,376367,TRUE
+Florida,Hillsborough County,Donald Trump,REP,327398,FALSE
+Florida,Hillsborough County,Jo Jorgensen,LIB,5665,FALSE
+Florida,Hillsborough County,Howie Hawkins,GRN,1187,FALSE
+Florida,Hillsborough County,Rocky De La Fuente,ALI,574,FALSE
+Florida,Hillsborough County,Gloria La Riva,PSL,529,FALSE
+Florida,Hillsborough County,Don Blankenship,CST,270,FALSE
+Florida,Hillsborough County,Write-ins,WRI,73,FALSE
+Florida,Holmes County,Donald Trump,REP,8080,TRUE
+Florida,Holmes County,Joe Biden,DEM,924,FALSE
+Florida,Holmes County,Jo Jorgensen,LIB,48,FALSE
+Florida,Holmes County,Howie Hawkins,GRN,9,FALSE
+Florida,Holmes County,Don Blankenship,CST,4,FALSE
+Florida,Holmes County,Rocky De La Fuente,ALI,2,FALSE
+Florida,Holmes County,Gloria La Riva,PSL,1,FALSE
+Florida,Indian River County,Donald Trump,REP,58872,TRUE
+Florida,Indian River County,Joe Biden,DEM,37844,FALSE
+Florida,Indian River County,Jo Jorgensen,LIB,534,FALSE
+Florida,Indian River County,Howie Hawkins,GRN,117,FALSE
+Florida,Indian River County,Rocky De La Fuente,ALI,43,FALSE
+Florida,Indian River County,Don Blankenship,CST,38,FALSE
+Florida,Indian River County,Gloria La Riva,PSL,33,FALSE
+Florida,Indian River County,Write-ins,WRI,3,FALSE
+Florida,Jackson County,Donald Trump,REP,15488,TRUE
+Florida,Jackson County,Joe Biden,DEM,6766,FALSE
+Florida,Jackson County,Jo Jorgensen,LIB,116,FALSE
+Florida,Jackson County,Rocky De La Fuente,ALI,13,FALSE
+Florida,Jackson County,Howie Hawkins,GRN,13,FALSE
+Florida,Jackson County,Gloria La Riva,PSL,13,FALSE
+Florida,Jackson County,Don Blankenship,CST,5,FALSE
+Florida,Jackson County,Write-ins,WRI,5,FALSE
+Florida,Jefferson County,Donald Trump,REP,4479,TRUE
+Florida,Jefferson County,Joe Biden,DEM,3897,FALSE
+Florida,Jefferson County,Jo Jorgensen,LIB,46,FALSE
+Florida,Jefferson County,Howie Hawkins,GRN,13,FALSE
+Florida,Jefferson County,Don Blankenship,CST,5,FALSE
+Florida,Jefferson County,Rocky De La Fuente,ALI,4,FALSE
+Florida,Jefferson County,Gloria La Riva,PSL,4,FALSE
+Florida,Jefferson County,Write-ins,WRI,3,FALSE
+Florida,Lafayette County,Donald Trump,REP,3128,TRUE
+Florida,Lafayette County,Joe Biden,DEM,510,FALSE
+Florida,Lafayette County,Jo Jorgensen,LIB,14,FALSE
+Florida,Lafayette County,Don Blankenship,CST,2,FALSE
+Florida,Lafayette County,Howie Hawkins,GRN,2,FALSE
+Florida,Lafayette County,Rocky De La Fuente,ALI,1,FALSE
+Florida,Lafayette County,Gloria La Riva,PSL,1,FALSE
+Florida,Lake County,Donald Trump,REP,125859,TRUE
+Florida,Lake County,Joe Biden,DEM,83505,FALSE
+Florida,Lake County,Jo Jorgensen,LIB,1385,FALSE
+Florida,Lake County,Howie Hawkins,GRN,254,FALSE
+Florida,Lake County,Rocky De La Fuente,ALI,120,FALSE
+Florida,Lake County,Gloria La Riva,PSL,96,FALSE
+Florida,Lake County,Don Blankenship,CST,79,FALSE
+Florida,Lake County,Write-ins,WRI,16,FALSE
+Florida,Lee County,Donald Trump,REP,233247,TRUE
+Florida,Lee County,Joe Biden,DEM,157695,FALSE
+Florida,Lee County,Jo Jorgensen,LIB,2016,FALSE
+Florida,Lee County,Howie Hawkins,GRN,440,FALSE
+Florida,Lee County,Rocky De La Fuente,ALI,187,FALSE
+Florida,Lee County,Gloria La Riva,PSL,176,FALSE
+Florida,Lee County,Don Blankenship,CST,121,FALSE
+Florida,Lee County,Write-ins,WRI,17,FALSE
+Florida,Leon County,Joe Biden,DEM,103517,TRUE
+Florida,Leon County,Donald Trump,REP,57453,FALSE
+Florida,Leon County,Jo Jorgensen,LIB,1344,FALSE
+Florida,Leon County,Howie Hawkins,GRN,271,FALSE
+Florida,Leon County,Gloria La Riva,PSL,122,FALSE
+Florida,Leon County,Rocky De La Fuente,ALI,98,FALSE
+Florida,Leon County,Don Blankenship,CST,71,FALSE
+Florida,Leon County,Write-ins,WRI,53,FALSE
+Florida,Levy County,Donald Trump,REP,16749,TRUE
+Florida,Levy County,Joe Biden,DEM,6205,FALSE
+Florida,Levy County,Jo Jorgensen,LIB,131,FALSE
+Florida,Levy County,Howie Hawkins,GRN,25,FALSE
+Florida,Levy County,Rocky De La Fuente,ALI,14,FALSE
+Florida,Levy County,Don Blankenship,CST,13,FALSE
+Florida,Levy County,Gloria La Riva,PSL,7,FALSE
+Florida,Levy County,Write-ins,WRI,1,FALSE
+Florida,Liberty County,Donald Trump,REP,2846,TRUE
+Florida,Liberty County,Joe Biden,DEM,694,FALSE
+Florida,Liberty County,Jo Jorgensen,LIB,14,FALSE
+Florida,Liberty County,Rocky De La Fuente,ALI,2,FALSE
+Florida,Liberty County,Howie Hawkins,GRN,2,FALSE
+Florida,Liberty County,Gloria La Riva,PSL,2,FALSE
+Florida,Liberty County,Don Blankenship,CST,1,FALSE
+Florida,Madison County,Donald Trump,REP,5576,TRUE
+Florida,Madison County,Joe Biden,DEM,3747,FALSE
+Florida,Madison County,Jo Jorgensen,LIB,32,FALSE
+Florida,Madison County,Howie Hawkins,GRN,13,FALSE
+Florida,Madison County,Don Blankenship,CST,5,FALSE
+Florida,Madison County,Gloria La Riva,PSL,4,FALSE
+Florida,Madison County,Rocky De La Fuente,ALI,3,FALSE
+Florida,Madison County,Write-ins,WRI,0,FALSE
+Florida,Manatee County,Donald Trump,REP,124987,TRUE
+Florida,Manatee County,Joe Biden,DEM,90166,FALSE
+Florida,Manatee County,Jo Jorgensen,LIB,1287,FALSE
+Florida,Manatee County,Howie Hawkins,GRN,258,FALSE
+Florida,Manatee County,Rocky De La Fuente,ALI,96,FALSE
+Florida,Manatee County,Gloria La Riva,PSL,78,FALSE
+Florida,Manatee County,Don Blankenship,CST,69,FALSE
+Florida,Manatee County,Write-ins,WRI,17,FALSE
+Florida,Marion County,Donald Trump,REP,127826,TRUE
+Florida,Marion County,Joe Biden,DEM,74858,FALSE
+Florida,Marion County,Jo Jorgensen,LIB,1180,FALSE
+Florida,Marion County,Howie Hawkins,GRN,228,FALSE
+Florida,Marion County,Gloria La Riva,PSL,98,FALSE
+Florida,Marion County,Rocky De La Fuente,ALI,91,FALSE
+Florida,Marion County,Don Blankenship,CST,80,FALSE
+Florida,Marion County,Write-ins,WRI,15,FALSE
+Florida,Martin County,Donald Trump,REP,61168,TRUE
+Florida,Martin County,Joe Biden,DEM,36893,FALSE
+Florida,Martin County,Jo Jorgensen,LIB,448,FALSE
+Florida,Martin County,Howie Hawkins,GRN,105,FALSE
+Florida,Martin County,Rocky De La Fuente,ALI,38,FALSE
+Florida,Martin County,Don Blankenship,CST,37,FALSE
+Florida,Martin County,Gloria La Riva,PSL,35,FALSE
+Florida,Martin County,Write-ins,WRI,2,FALSE
+Florida,Miami-Dade County,Joe Biden,DEM,617864,TRUE
+Florida,Miami-Dade County,Donald Trump,REP,532833,FALSE
+Florida,Miami-Dade County,Jo Jorgensen,LIB,3329,FALSE
+Florida,Miami-Dade County,Howie Hawkins,GRN,1289,FALSE
+Florida,Miami-Dade County,Rocky De La Fuente,ALI,602,FALSE
+Florida,Miami-Dade County,Gloria La Riva,PSL,579,FALSE
+Florida,Miami-Dade County,Don Blankenship,CST,293,FALSE
+Florida,Miami-Dade County,Write-ins,WRI,27,FALSE
+Florida,Monroe County,Donald Trump,REP,25693,TRUE
+Florida,Monroe County,Joe Biden,DEM,21881,FALSE
+Florida,Monroe County,Jo Jorgensen,LIB,348,FALSE
+Florida,Monroe County,Howie Hawkins,GRN,51,FALSE
+Florida,Monroe County,Rocky De La Fuente,ALI,26,FALSE
+Florida,Monroe County,Gloria La Riva,PSL,14,FALSE
+Florida,Monroe County,Don Blankenship,CST,12,FALSE
+Florida,Monroe County,Write-ins,WRI,4,FALSE
+Florida,Nassau County,Donald Trump,REP,42566,TRUE
+Florida,Nassau County,Joe Biden,DEM,15564,FALSE
+Florida,Nassau County,Jo Jorgensen,LIB,569,FALSE
+Florida,Nassau County,Howie Hawkins,GRN,43,FALSE
+Florida,Nassau County,Rocky De La Fuente,ALI,28,FALSE
+Florida,Nassau County,Don Blankenship,CST,24,FALSE
+Florida,Nassau County,Gloria La Riva,PSL,12,FALSE
+Florida,Nassau County,Write-ins,WRI,5,FALSE
+Florida,Okaloosa County,Donald Trump,REP,79798,TRUE
+Florida,Okaloosa County,Joe Biden,DEM,34248,FALSE
+Florida,Okaloosa County,Jo Jorgensen,LIB,1881,FALSE
+Florida,Okaloosa County,Howie Hawkins,GRN,183,FALSE
+Florida,Okaloosa County,Don Blankenship,CST,79,FALSE
+Florida,Okaloosa County,Rocky De La Fuente,ALI,76,FALSE
+Florida,Okaloosa County,Gloria La Riva,PSL,73,FALSE
+Florida,Okaloosa County,Write-ins,WRI,35,FALSE
+Florida,Okeechobee County,Donald Trump,REP,11470,TRUE
+Florida,Okeechobee County,Joe Biden,DEM,4390,FALSE
+Florida,Okeechobee County,Jo Jorgensen,LIB,66,FALSE
+Florida,Okeechobee County,Don Blankenship,CST,8,FALSE
+Florida,Okeechobee County,Rocky De La Fuente,ALI,8,FALSE
+Florida,Okeechobee County,Howie Hawkins,GRN,7,FALSE
+Florida,Okeechobee County,Gloria La Riva,PSL,4,FALSE
+Florida,Okeechobee County,Write-ins,WRI,1,FALSE
+Florida,Orange County,Joe Biden,DEM,395014,TRUE
+Florida,Orange County,Donald Trump,REP,245398,FALSE
+Florida,Orange County,Jo Jorgensen,LIB,4685,FALSE
+Florida,Orange County,Howie Hawkins,GRN,1146,FALSE
+Florida,Orange County,Gloria La Riva,PSL,444,FALSE
+Florida,Orange County,Rocky De La Fuente,ALI,386,FALSE
+Florida,Orange County,Don Blankenship,CST,223,FALSE
+Florida,Orange County,Write-ins,WRI,107,FALSE
+Florida,Osceola County,Joe Biden,DEM,97297,TRUE
+Florida,Osceola County,Donald Trump,REP,73480,FALSE
+Florida,Osceola County,Jo Jorgensen,LIB,964,FALSE
+Florida,Osceola County,Howie Hawkins,GRN,290,FALSE
+Florida,Osceola County,Rocky De La Fuente,ALI,166,FALSE
+Florida,Osceola County,Gloria La Riva,PSL,140,FALSE
+Florida,Osceola County,Don Blankenship,CST,70,FALSE
+Florida,Osceola County,Write-ins,WRI,29,FALSE
+Florida,Palm Beach County,Joe Biden,DEM,433572,TRUE
+Florida,Palm Beach County,Donald Trump,REP,334711,FALSE
+Florida,Palm Beach County,Jo Jorgensen,LIB,3040,FALSE
+Florida,Palm Beach County,Howie Hawkins,GRN,891,FALSE
+Florida,Palm Beach County,Rocky De La Fuente,ALI,356,FALSE
+Florida,Palm Beach County,Gloria La Riva,PSL,335,FALSE
+Florida,Palm Beach County,Don Blankenship,CST,188,FALSE
+Florida,Palm Beach County,Write-ins,WRI,65,FALSE
+Florida,Pasco County,Donald Trump,REP,179621,TRUE
+Florida,Pasco County,Joe Biden,DEM,119073,FALSE
+Florida,Pasco County,Jo Jorgensen,LIB,2265,FALSE
+Florida,Pasco County,Howie Hawkins,GRN,467,FALSE
+Florida,Pasco County,Rocky De La Fuente,ALI,200,FALSE
+Florida,Pasco County,Gloria La Riva,PSL,169,FALSE
+Florida,Pasco County,Don Blankenship,CST,142,FALSE
+Florida,Pasco County,Write-ins,WRI,33,FALSE
+Florida,Pinellas County,Joe Biden,DEM,277450,TRUE
+Florida,Pinellas County,Donald Trump,REP,276209,FALSE
+Florida,Pinellas County,Jo Jorgensen,LIB,4268,FALSE
+Florida,Pinellas County,Howie Hawkins,GRN,912,FALSE
+Florida,Pinellas County,Gloria La Riva,PSL,311,FALSE
+Florida,Pinellas County,Rocky De La Fuente,ALI,305,FALSE
+Florida,Pinellas County,Don Blankenship,CST,199,FALSE
+Florida,Pinellas County,Write-ins,WRI,61,FALSE
+Florida,Polk County,Donald Trump,REP,194586,TRUE
+Florida,Polk County,Joe Biden,DEM,145049,FALSE
+Florida,Polk County,Jo Jorgensen,LIB,2595,FALSE
+Florida,Polk County,Howie Hawkins,GRN,425,FALSE
+Florida,Polk County,Gloria La Riva,PSL,217,FALSE
+Florida,Polk County,Rocky De La Fuente,ALI,204,FALSE
+Florida,Polk County,Don Blankenship,CST,140,FALSE
+Florida,Polk County,Write-ins,WRI,40,FALSE
+Florida,Putnam County,Donald Trump,REP,25514,TRUE
+Florida,Putnam County,Joe Biden,DEM,10527,FALSE
+Florida,Putnam County,Jo Jorgensen,LIB,226,FALSE
+Florida,Putnam County,Howie Hawkins,GRN,50,FALSE
+Florida,Putnam County,Gloria La Riva,PSL,21,FALSE
+Florida,Putnam County,Don Blankenship,CST,20,FALSE
+Florida,Putnam County,Rocky De La Fuente,ALI,14,FALSE
+Florida,Putnam County,Write-ins,WRI,1,FALSE
+Florida,St. Johns County,Donald Trump,REP,110946,TRUE
+Florida,St. Johns County,Joe Biden,DEM,63850,FALSE
+Florida,St. Johns County,Jo Jorgensen,LIB,1413,FALSE
+Florida,St. Johns County,Howie Hawkins,GRN,210,FALSE
+Florida,St. Johns County,Rocky De La Fuente,ALI,101,FALSE
+Florida,St. Johns County,Gloria La Riva,PSL,54,FALSE
+Florida,St. Johns County,Don Blankenship,CST,44,FALSE
+Florida,St. Johns County,Write-ins,WRI,4,FALSE
+Florida,St. Lucie County,Donald Trump,REP,86831,TRUE
+Florida,St. Lucie County,Joe Biden,DEM,84137,FALSE
+Florida,St. Lucie County,Jo Jorgensen,LIB,768,FALSE
+Florida,St. Lucie County,Howie Hawkins,GRN,209,FALSE
+Florida,St. Lucie County,Gloria La Riva,PSL,82,FALSE
+Florida,St. Lucie County,Rocky De La Fuente,ALI,71,FALSE
+Florida,St. Lucie County,Don Blankenship,CST,61,FALSE
+Florida,St. Lucie County,Write-ins,WRI,10,FALSE
+Florida,Santa Rosa County,Donald Trump,REP,77385,TRUE
+Florida,Santa Rosa County,Joe Biden,DEM,27612,FALSE
+Florida,Santa Rosa County,Jo Jorgensen,LIB,1645,FALSE
+Florida,Santa Rosa County,Howie Hawkins,GRN,122,FALSE
+Florida,Santa Rosa County,Rocky De La Fuente,ALI,60,FALSE
+Florida,Santa Rosa County,Don Blankenship,CST,55,FALSE
+Florida,Santa Rosa County,Gloria La Riva,PSL,46,FALSE
+Florida,Santa Rosa County,Write-ins,WRI,3,FALSE
+Florida,Sarasota County,Donald Trump,REP,148370,TRUE
+Florida,Sarasota County,Joe Biden,DEM,120110,FALSE
+Florida,Sarasota County,Jo Jorgensen,LIB,1507,FALSE
+Florida,Sarasota County,Howie Hawkins,GRN,284,FALSE
+Florida,Sarasota County,Gloria La Riva,PSL,105,FALSE
+Florida,Sarasota County,Rocky De La Fuente,ALI,102,FALSE
+Florida,Sarasota County,Don Blankenship,CST,70,FALSE
+Florida,Sarasota County,Write-ins,WRI,27,FALSE
+Florida,Seminole County,Joe Biden,DEM,132528,TRUE
+Florida,Seminole County,Donald Trump,REP,125241,FALSE
+Florida,Seminole County,Jo Jorgensen,LIB,2215,FALSE
+Florida,Seminole County,Howie Hawkins,GRN,406,FALSE
+Florida,Seminole County,Gloria La Riva,PSL,137,FALSE
+Florida,Seminole County,Rocky De La Fuente,ALI,135,FALSE
+Florida,Seminole County,Don Blankenship,CST,103,FALSE
+Florida,Seminole County,Write-ins,WRI,50,FALSE
+Florida,Sumter County,Donald Trump,REP,62761,TRUE
+Florida,Sumter County,Joe Biden,DEM,29341,FALSE
+Florida,Sumter County,Jo Jorgensen,LIB,269,FALSE
+Florida,Sumter County,Howie Hawkins,GRN,39,FALSE
+Florida,Sumter County,Don Blankenship,CST,29,FALSE
+Florida,Sumter County,Rocky De La Fuente,ALI,25,FALSE
+Florida,Sumter County,Gloria La Riva,PSL,20,FALSE
+Florida,Sumter County,Write-ins,WRI,1,FALSE
+Florida,Suwannee County,Donald Trump,REP,16410,TRUE
+Florida,Suwannee County,Joe Biden,DEM,4485,FALSE
+Florida,Suwannee County,Jo Jorgensen,LIB,119,FALSE
+Florida,Suwannee County,Howie Hawkins,GRN,23,FALSE
+Florida,Suwannee County,Gloria La Riva,PSL,8,FALSE
+Florida,Suwannee County,Don Blankenship,CST,6,FALSE
+Florida,Suwannee County,Rocky De La Fuente,ALI,6,FALSE
+Florida,Taylor County,Donald Trump,REP,7751,TRUE
+Florida,Taylor County,Joe Biden,DEM,2299,FALSE
+Florida,Taylor County,Jo Jorgensen,LIB,52,FALSE
+Florida,Taylor County,Howie Hawkins,GRN,11,FALSE
+Florida,Taylor County,Gloria La Riva,PSL,6,FALSE
+Florida,Taylor County,Don Blankenship,CST,3,FALSE
+Florida,Taylor County,Rocky De La Fuente,ALI,3,FALSE
+Florida,Taylor County,Write-ins,WRI,2,FALSE
+Florida,Union County,Donald Trump,REP,5133,TRUE
+Florida,Union County,Joe Biden,DEM,1053,FALSE
+Florida,Union County,Jo Jorgensen,LIB,42,FALSE
+Florida,Union County,Don Blankenship,CST,5,FALSE
+Florida,Union County,Howie Hawkins,GRN,5,FALSE
+Florida,Union County,Rocky De La Fuente,ALI,4,FALSE
+Florida,Union County,Gloria La Riva,PSL,3,FALSE
+Florida,Union County,Write-ins,WRI,0,FALSE
+Florida,Volusia County,Donald Trump,REP,173821,TRUE
+Florida,Volusia County,Joe Biden,DEM,130575,FALSE
+Florida,Volusia County,Jo Jorgensen,LIB,2156,FALSE
+Florida,Volusia County,Howie Hawkins,GRN,390,FALSE
+Florida,Volusia County,Gloria La Riva,PSL,173,FALSE
+Florida,Volusia County,Rocky De La Fuente,ALI,160,FALSE
+Florida,Volusia County,Don Blankenship,CST,141,FALSE
+Florida,Volusia County,Write-ins,WRI,23,FALSE
+Florida,Wakulla County,Donald Trump,REP,12874,TRUE
+Florida,Wakulla County,Joe Biden,DEM,5351,FALSE
+Florida,Wakulla County,Jo Jorgensen,LIB,135,FALSE
+Florida,Wakulla County,Howie Hawkins,GRN,18,FALSE
+Florida,Wakulla County,Don Blankenship,CST,10,FALSE
+Florida,Wakulla County,Rocky De La Fuente,ALI,10,FALSE
+Florida,Wakulla County,Gloria La Riva,PSL,6,FALSE
+Florida,Walton County,Donald Trump,REP,32947,TRUE
+Florida,Walton County,Joe Biden,DEM,10338,FALSE
+Florida,Walton County,Jo Jorgensen,LIB,336,FALSE
+Florida,Walton County,Howie Hawkins,GRN,43,FALSE
+Florida,Walton County,Rocky De La Fuente,ALI,16,FALSE
+Florida,Walton County,Gloria La Riva,PSL,15,FALSE
+Florida,Walton County,Don Blankenship,CST,13,FALSE
+Florida,Walton County,Write-ins,WRI,3,FALSE
+Florida,Washington County,Donald Trump,REP,9876,TRUE
+Florida,Washington County,Joe Biden,DEM,2347,FALSE
+Florida,Washington County,Jo Jorgensen,LIB,69,FALSE
+Florida,Washington County,Howie Hawkins,GRN,15,FALSE
+Florida,Washington County,Gloria La Riva,PSL,10,FALSE
+Florida,Washington County,Don Blankenship,CST,5,FALSE
+Florida,Washington County,Rocky De La Fuente,ALI,5,FALSE
+Illinois,Adams County,Donald Trump,REP,24220,TRUE
+Illinois,Adams County,Joe Biden,DEM,8633,FALSE
+Illinois,Adams County,Jo Jorgensen,LIB,483,FALSE
+Illinois,Adams County,Howie Hawkins,GRN,102,FALSE
+Illinois,Adams County,Brian Carroll,ASP,64,FALSE
+Illinois,Adams County,Gloria La Riva,PSL,25,FALSE
+Illinois,Adams County,Write-ins,WRI,0,FALSE
+Illinois,Alexander County,Donald Trump,REP,1486,TRUE
+Illinois,Alexander County,Joe Biden,DEM,1114,FALSE
+Illinois,Alexander County,Jo Jorgensen,LIB,7,FALSE
+Illinois,Alexander County,Gloria La Riva,PSL,6,FALSE
+Illinois,Alexander County,Howie Hawkins,GRN,5,FALSE
+Illinois,Alexander County,Brian Carroll,ASP,0,FALSE
+Illinois,Alexander County,Write-ins,WRI,0,FALSE
+Illinois,Bond County,Donald Trump,REP,5625,TRUE
+Illinois,Bond County,Joe Biden,DEM,2288,FALSE
+Illinois,Bond County,Jo Jorgensen,LIB,158,FALSE
+Illinois,Bond County,Howie Hawkins,GRN,41,FALSE
+Illinois,Bond County,Brian Carroll,ASP,22,FALSE
+Illinois,Bond County,Gloria La Riva,PSL,10,FALSE
+Illinois,Bond County,Write-ins,WRI,0,FALSE
+Illinois,Boone County,Donald Trump,REP,13883,TRUE
+Illinois,Boone County,Joe Biden,DEM,10542,FALSE
+Illinois,Boone County,Jo Jorgensen,LIB,360,FALSE
+Illinois,Boone County,Howie Hawkins,GRN,146,FALSE
+Illinois,Boone County,Brian Carroll,ASP,26,FALSE
+Illinois,Boone County,Gloria La Riva,PSL,22,FALSE
+Illinois,Boone County,Write-ins,WRI,0,FALSE
+Illinois,Brown County,Donald Trump,REP,1931,TRUE
+Illinois,Brown County,Joe Biden,DEM,486,FALSE
+Illinois,Brown County,Jo Jorgensen,LIB,47,FALSE
+Illinois,Brown County,Brian Carroll,ASP,39,FALSE
+Illinois,Brown County,Howie Hawkins,GRN,10,FALSE
+Illinois,Brown County,Gloria La Riva,PSL,8,FALSE
+Illinois,Brown County,Write-ins,WRI,4,FALSE
+Illinois,Bureau County,Donald Trump,REP,10411,TRUE
+Illinois,Bureau County,Joe Biden,DEM,6669,FALSE
+Illinois,Bureau County,Jo Jorgensen,LIB,209,FALSE
+Illinois,Bureau County,Howie Hawkins,GRN,95,FALSE
+Illinois,Bureau County,Brian Carroll,ASP,37,FALSE
+Illinois,Bureau County,Gloria La Riva,PSL,13,FALSE
+Illinois,Bureau County,Write-ins,WRI,0,FALSE
+Illinois,Calhoun County,Donald Trump,REP,2046,TRUE
+Illinois,Calhoun County,Joe Biden,DEM,677,FALSE
+Illinois,Calhoun County,Jo Jorgensen,LIB,36,FALSE
+Illinois,Calhoun County,Howie Hawkins,GRN,8,FALSE
+Illinois,Calhoun County,Brian Carroll,ASP,4,FALSE
+Illinois,Calhoun County,Gloria La Riva,PSL,1,FALSE
+Illinois,Calhoun County,Write-ins,WRI,1,FALSE
+Illinois,Carroll County,Donald Trump,REP,5105,TRUE
+Illinois,Carroll County,Joe Biden,DEM,2748,FALSE
+Illinois,Carroll County,Jo Jorgensen,LIB,111,FALSE
+Illinois,Carroll County,Howie Hawkins,GRN,39,FALSE
+Illinois,Carroll County,Brian Carroll,ASP,11,FALSE
+Illinois,Carroll County,Gloria La Riva,PSL,10,FALSE
+Illinois,Carroll County,Write-ins,WRI,0,FALSE
+Illinois,Cass County,Donald Trump,REP,3625,TRUE
+Illinois,Cass County,Joe Biden,DEM,1615,FALSE
+Illinois,Cass County,Jo Jorgensen,LIB,50,FALSE
+Illinois,Cass County,Howie Hawkins,GRN,17,FALSE
+Illinois,Cass County,Write-ins,WRI,9,FALSE
+Illinois,Cass County,Brian Carroll,ASP,6,FALSE
+Illinois,Cass County,Gloria La Riva,PSL,4,FALSE
+Illinois,Champaign County,Joe Biden,DEM,57067,TRUE
+Illinois,Champaign County,Donald Trump,REP,35285,FALSE
+Illinois,Champaign County,Jo Jorgensen,LIB,1507,FALSE
+Illinois,Champaign County,Howie Hawkins,GRN,671,FALSE
+Illinois,Champaign County,Write-ins,WRI,516,FALSE
+Illinois,Champaign County,Brian Carroll,ASP,288,FALSE
+Illinois,Champaign County,Gloria La Riva,PSL,234,FALSE
+Illinois,Christian County,Donald Trump,REP,11563,TRUE
+Illinois,Christian County,Joe Biden,DEM,4335,FALSE
+Illinois,Christian County,Jo Jorgensen,LIB,210,FALSE
+Illinois,Christian County,Howie Hawkins,GRN,65,FALSE
+Illinois,Christian County,Brian Carroll,ASP,23,FALSE
+Illinois,Christian County,Gloria La Riva,PSL,8,FALSE
+Illinois,Christian County,Write-ins,WRI,0,FALSE
+Illinois,Clark County,Donald Trump,REP,6226,TRUE
+Illinois,Clark County,Joe Biden,DEM,1993,FALSE
+Illinois,Clark County,Jo Jorgensen,LIB,95,FALSE
+Illinois,Clark County,Howie Hawkins,GRN,27,FALSE
+Illinois,Clark County,Brian Carroll,ASP,9,FALSE
+Illinois,Clark County,Gloria La Riva,PSL,5,FALSE
+Illinois,Clark County,Write-ins,WRI,0,FALSE
+Illinois,Clay County,Donald Trump,REP,5629,TRUE
+Illinois,Clay County,Joe Biden,DEM,1129,FALSE
+Illinois,Clay County,Jo Jorgensen,LIB,88,FALSE
+Illinois,Clay County,Howie Hawkins,GRN,26,FALSE
+Illinois,Clay County,Write-ins,WRI,13,FALSE
+Illinois,Clay County,Brian Carroll,ASP,10,FALSE
+Illinois,Clay County,Gloria La Riva,PSL,4,FALSE
+Illinois,Clinton County,Donald Trump,REP,14304,TRUE
+Illinois,Clinton County,Joe Biden,DEM,4493,FALSE
+Illinois,Clinton County,Jo Jorgensen,LIB,258,FALSE
+Illinois,Clinton County,Howie Hawkins,GRN,77,FALSE
+Illinois,Clinton County,Write-ins,WRI,44,FALSE
+Illinois,Clinton County,Brian Carroll,ASP,23,FALSE
+Illinois,Clinton County,Gloria La Riva,PSL,15,FALSE
+Illinois,Coles County,Donald Trump,REP,14037,TRUE
+Illinois,Coles County,Joe Biden,DEM,8067,FALSE
+Illinois,Coles County,Jo Jorgensen,LIB,306,FALSE
+Illinois,Coles County,Howie Hawkins,GRN,132,FALSE
+Illinois,Coles County,Brian Carroll,ASP,35,FALSE
+Illinois,Coles County,Gloria La Riva,PSL,29,FALSE
+Illinois,Coles County,Write-ins,WRI,0,FALSE
+Illinois,Cook County,Joe Biden,DEM,1725973,TRUE
+Illinois,Cook County,Donald Trump,REP,558269,FALSE
+Illinois,Cook County,Jo Jorgensen,LIB,17657,FALSE
+Illinois,Cook County,Howie Hawkins,GRN,12279,FALSE
+Illinois,Cook County,Gloria La Riva,PSL,4136,FALSE
+Illinois,Cook County,Brian Carroll,ASP,3085,FALSE
+Illinois,Cook County,Write-ins,WRI,0,FALSE
+Illinois,Crawford County,Donald Trump,REP,7043,TRUE
+Illinois,Crawford County,Joe Biden,DEM,2202,FALSE
+Illinois,Crawford County,Jo Jorgensen,LIB,119,FALSE
+Illinois,Crawford County,Howie Hawkins,GRN,43,FALSE
+Illinois,Crawford County,Write-ins,WRI,16,FALSE
+Illinois,Crawford County,Gloria La Riva,PSL,10,FALSE
+Illinois,Crawford County,Brian Carroll,ASP,8,FALSE
+Illinois,Cumberland County,Donald Trump,REP,4601,TRUE
+Illinois,Cumberland County,Joe Biden,DEM,1142,FALSE
+Illinois,Cumberland County,Jo Jorgensen,LIB,63,FALSE
+Illinois,Cumberland County,Howie Hawkins,GRN,21,FALSE
+Illinois,Cumberland County,Write-ins,WRI,19,FALSE
+Illinois,Cumberland County,Brian Carroll,ASP,3,FALSE
+Illinois,Cumberland County,Gloria La Riva,PSL,1,FALSE
+Illinois,DeKalb County,Joe Biden,DEM,24643,TRUE
+Illinois,DeKalb County,Donald Trump,REP,21905,FALSE
+Illinois,DeKalb County,Jo Jorgensen,LIB,783,FALSE
+Illinois,DeKalb County,Howie Hawkins,GRN,331,FALSE
+Illinois,DeKalb County,Write-ins,WRI,170,FALSE
+Illinois,DeKalb County,Brian Carroll,ASP,103,FALSE
+Illinois,DeKalb County,Gloria La Riva,PSL,54,FALSE
+Illinois,De Witt County,Donald Trump,REP,5632,TRUE
+Illinois,De Witt County,Joe Biden,DEM,2191,FALSE
+Illinois,De Witt County,Jo Jorgensen,LIB,139,FALSE
+Illinois,De Witt County,Howie Hawkins,GRN,47,FALSE
+Illinois,De Witt County,Brian Carroll,ASP,12,FALSE
+Illinois,De Witt County,Gloria La Riva,PSL,3,FALSE
+Illinois,De Witt County,Write-ins,WRI,0,FALSE
+Illinois,Douglas County,Donald Trump,REP,6227,TRUE
+Illinois,Douglas County,Joe Biden,DEM,2335,FALSE
+Illinois,Douglas County,Jo Jorgensen,LIB,119,FALSE
+Illinois,Douglas County,Howie Hawkins,GRN,43,FALSE
+Illinois,Douglas County,Write-ins,WRI,22,FALSE
+Illinois,Douglas County,Brian Carroll,ASP,10,FALSE
+Illinois,Douglas County,Gloria La Riva,PSL,4,FALSE
+Illinois,DuPage County,Joe Biden,DEM,281222,TRUE
+Illinois,DuPage County,Donald Trump,REP,193611,FALSE
+Illinois,DuPage County,Jo Jorgensen,LIB,6249,FALSE
+Illinois,DuPage County,Howie Hawkins,GRN,2490,FALSE
+Illinois,DuPage County,Brian Carroll,ASP,1115,FALSE
+Illinois,DuPage County,Gloria La Riva,PSL,377,FALSE
+Illinois,DuPage County,Write-ins,WRI,0,FALSE
+Illinois,Edgar County,Donald Trump,REP,6193,TRUE
+Illinois,Edgar County,Joe Biden,DEM,1887,FALSE
+Illinois,Edgar County,Jo Jorgensen,LIB,75,FALSE
+Illinois,Edgar County,Howie Hawkins,GRN,28,FALSE
+Illinois,Edgar County,Brian Carroll,ASP,8,FALSE
+Illinois,Edgar County,Gloria La Riva,PSL,5,FALSE
+Illinois,Edgar County,Write-ins,WRI,0,FALSE
+Illinois,Edwards County,Donald Trump,REP,2833,TRUE
+Illinois,Edwards County,Joe Biden,DEM,488,FALSE
+Illinois,Edwards County,Jo Jorgensen,LIB,31,FALSE
+Illinois,Edwards County,Howie Hawkins,GRN,9,FALSE
+Illinois,Edwards County,Gloria La Riva,PSL,3,FALSE
+Illinois,Edwards County,Brian Carroll,ASP,2,FALSE
+Illinois,Edwards County,Write-ins,WRI,2,FALSE
+Illinois,Effingham County,Donald Trump,REP,15006,TRUE
+Illinois,Effingham County,Joe Biden,DEM,3716,FALSE
+Illinois,Effingham County,Jo Jorgensen,LIB,232,FALSE
+Illinois,Effingham County,Howie Hawkins,GRN,59,FALSE
+Illinois,Effingham County,Write-ins,WRI,34,FALSE
+Illinois,Effingham County,Brian Carroll,ASP,27,FALSE
+Illinois,Effingham County,Gloria La Riva,PSL,9,FALSE
+Illinois,Fayette County,Donald Trump,REP,8055,TRUE
+Illinois,Fayette County,Joe Biden,DEM,1826,FALSE
+Illinois,Fayette County,Jo Jorgensen,LIB,113,FALSE
+Illinois,Fayette County,Howie Hawkins,GRN,36,FALSE
+Illinois,Fayette County,Write-ins,WRI,23,FALSE
+Illinois,Fayette County,Brian Carroll,ASP,16,FALSE
+Illinois,Fayette County,Gloria La Riva,PSL,7,FALSE
+Illinois,Ford County,Donald Trump,REP,5048,TRUE
+Illinois,Ford County,Joe Biden,DEM,1754,FALSE
+Illinois,Ford County,Jo Jorgensen,LIB,100,FALSE
+Illinois,Ford County,Howie Hawkins,GRN,39,FALSE
+Illinois,Ford County,Write-ins,WRI,14,FALSE
+Illinois,Ford County,Brian Carroll,ASP,10,FALSE
+Illinois,Ford County,Gloria La Riva,PSL,2,FALSE
+Illinois,Franklin County,Donald Trump,REP,13622,TRUE
+Illinois,Franklin County,Joe Biden,DEM,4760,FALSE
+Illinois,Franklin County,Jo Jorgensen,LIB,141,FALSE
+Illinois,Franklin County,Howie Hawkins,GRN,82,FALSE
+Illinois,Franklin County,Write-ins,WRI,43,FALSE
+Illinois,Franklin County,Brian Carroll,ASP,12,FALSE
+Illinois,Franklin County,Gloria La Riva,PSL,9,FALSE
+Illinois,Fulton County,Donald Trump,REP,9867,TRUE
+Illinois,Fulton County,Joe Biden,DEM,6503,FALSE
+Illinois,Fulton County,Jo Jorgensen,LIB,179,FALSE
+Illinois,Fulton County,Howie Hawkins,GRN,92,FALSE
+Illinois,Fulton County,Write-ins,WRI,46,FALSE
+Illinois,Fulton County,Brian Carroll,ASP,22,FALSE
+Illinois,Fulton County,Gloria La Riva,PSL,15,FALSE
+Illinois,Gallatin County,Donald Trump,REP,2019,TRUE
+Illinois,Gallatin County,Joe Biden,DEM,622,FALSE
+Illinois,Gallatin County,Jo Jorgensen,LIB,18,FALSE
+Illinois,Gallatin County,Howie Hawkins,GRN,10,FALSE
+Illinois,Gallatin County,Gloria La Riva,PSL,3,FALSE
+Illinois,Gallatin County,Brian Carroll,ASP,2,FALSE
+Illinois,Gallatin County,Write-ins,WRI,1,FALSE
+Illinois,Greene County,Donald Trump,REP,4770,TRUE
+Illinois,Greene County,Joe Biden,DEM,1349,FALSE
+Illinois,Greene County,Jo Jorgensen,LIB,70,FALSE
+Illinois,Greene County,Howie Hawkins,GRN,21,FALSE
+Illinois,Greene County,Brian Carroll,ASP,11,FALSE
+Illinois,Greene County,Gloria La Riva,PSL,6,FALSE
+Illinois,Greene County,Write-ins,WRI,0,FALSE
+Illinois,Grundy County,Donald Trump,REP,16523,TRUE
+Illinois,Grundy County,Joe Biden,DEM,9626,FALSE
+Illinois,Grundy County,Jo Jorgensen,LIB,356,FALSE
+Illinois,Grundy County,Howie Hawkins,GRN,125,FALSE
+Illinois,Grundy County,Write-ins,WRI,63,FALSE
+Illinois,Grundy County,Brian Carroll,ASP,34,FALSE
+Illinois,Grundy County,Gloria La Riva,PSL,26,FALSE
+Illinois,Hamilton County,Donald Trump,REP,3432,TRUE
+Illinois,Hamilton County,Joe Biden,DEM,824,FALSE
+Illinois,Hamilton County,Jo Jorgensen,LIB,41,FALSE
+Illinois,Hamilton County,Howie Hawkins,GRN,11,FALSE
+Illinois,Hamilton County,Write-ins,WRI,8,FALSE
+Illinois,Hamilton County,Gloria La Riva,PSL,4,FALSE
+Illinois,Hamilton County,Brian Carroll,ASP,3,FALSE
+Illinois,Hancock County,Donald Trump,REP,6906,TRUE
+Illinois,Hancock County,Joe Biden,DEM,2315,FALSE
+Illinois,Hancock County,Jo Jorgensen,LIB,114,FALSE
+Illinois,Hancock County,Howie Hawkins,GRN,35,FALSE
+Illinois,Hancock County,Gloria La Riva,PSL,8,FALSE
+Illinois,Hancock County,Brian Carroll,ASP,5,FALSE
+Illinois,Hancock County,Write-ins,WRI,0,FALSE
+Illinois,Hardin County,Donald Trump,REP,1691,TRUE
+Illinois,Hardin County,Joe Biden,DEM,449,FALSE
+Illinois,Hardin County,Jo Jorgensen,LIB,14,FALSE
+Illinois,Hardin County,Howie Hawkins,GRN,7,FALSE
+Illinois,Hardin County,Gloria La Riva,PSL,1,FALSE
+Illinois,Hardin County,Brian Carroll,ASP,0,FALSE
+Illinois,Hardin County,Write-ins,WRI,0,FALSE
+Illinois,Henderson County,Donald Trump,REP,2394,TRUE
+Illinois,Henderson County,Joe Biden,DEM,1187,FALSE
+Illinois,Henderson County,Jo Jorgensen,LIB,49,FALSE
+Illinois,Henderson County,Howie Hawkins,GRN,11,FALSE
+Illinois,Henderson County,Write-ins,WRI,9,FALSE
+Illinois,Henderson County,Brian Carroll,ASP,4,FALSE
+Illinois,Henderson County,Gloria La Riva,PSL,2,FALSE
+Illinois,Henry County,Donald Trump,REP,15300,TRUE
+Illinois,Henry County,Joe Biden,DEM,9797,FALSE
+Illinois,Henry County,Jo Jorgensen,LIB,369,FALSE
+Illinois,Henry County,Howie Hawkins,GRN,109,FALSE
+Illinois,Henry County,Write-ins,WRI,65,FALSE
+Illinois,Henry County,Brian Carroll,ASP,43,FALSE
+Illinois,Henry County,Gloria La Riva,PSL,17,FALSE
+Illinois,Iroquois County,Donald Trump,REP,10877,TRUE
+Illinois,Iroquois County,Joe Biden,DEM,2908,FALSE
+Illinois,Iroquois County,Jo Jorgensen,LIB,147,FALSE
+Illinois,Iroquois County,Howie Hawkins,GRN,64,FALSE
+Illinois,Iroquois County,Brian Carroll,ASP,24,FALSE
+Illinois,Iroquois County,Write-ins,WRI,20,FALSE
+Illinois,Iroquois County,Gloria La Riva,PSL,4,FALSE
+Illinois,Jackson County,Joe Biden,DEM,11181,TRUE
+Illinois,Jackson County,Donald Trump,REP,10890,FALSE
+Illinois,Jackson County,Jo Jorgensen,LIB,311,FALSE
+Illinois,Jackson County,Howie Hawkins,GRN,194,FALSE
+Illinois,Jackson County,Write-ins,WRI,73,FALSE
+Illinois,Jackson County,Brian Carroll,ASP,34,FALSE
+Illinois,Jackson County,Gloria La Riva,PSL,33,FALSE
+Illinois,Jasper County,Donald Trump,REP,4494,TRUE
+Illinois,Jasper County,Joe Biden,DEM,1007,FALSE
+Illinois,Jasper County,Jo Jorgensen,LIB,53,FALSE
+Illinois,Jasper County,Howie Hawkins,GRN,17,FALSE
+Illinois,Jasper County,Write-ins,WRI,10,FALSE
+Illinois,Jasper County,Brian Carroll,ASP,4,FALSE
+Illinois,Jasper County,Gloria La Riva,PSL,1,FALSE
+Illinois,Jefferson County,Donald Trump,REP,12476,TRUE
+Illinois,Jefferson County,Joe Biden,DEM,4608,FALSE
+Illinois,Jefferson County,Jo Jorgensen,LIB,214,FALSE
+Illinois,Jefferson County,Howie Hawkins,GRN,77,FALSE
+Illinois,Jefferson County,Write-ins,WRI,32,FALSE
+Illinois,Jefferson County,Brian Carroll,ASP,16,FALSE
+Illinois,Jefferson County,Gloria La Riva,PSL,13,FALSE
+Illinois,Jersey County,Donald Trump,REP,8712,TRUE
+Illinois,Jersey County,Joe Biden,DEM,2961,FALSE
+Illinois,Jersey County,Jo Jorgensen,LIB,202,FALSE
+Illinois,Jersey County,Howie Hawkins,GRN,45,FALSE
+Illinois,Jersey County,Write-ins,WRI,23,FALSE
+Illinois,Jersey County,Brian Carroll,ASP,10,FALSE
+Illinois,Jersey County,Gloria La Riva,PSL,7,FALSE
+Illinois,Jo Daviess County,Donald Trump,REP,7166,TRUE
+Illinois,Jo Daviess County,Joe Biden,DEM,5109,FALSE
+Illinois,Jo Daviess County,Jo Jorgensen,LIB,125,FALSE
+Illinois,Jo Daviess County,Howie Hawkins,GRN,61,FALSE
+Illinois,Jo Daviess County,Gloria La Riva,PSL,18,FALSE
+Illinois,Jo Daviess County,Brian Carroll,ASP,16,FALSE
+Illinois,Jo Daviess County,Write-ins,WRI,0,FALSE
+Illinois,Johnson County,Donald Trump,REP,5059,TRUE
+Illinois,Johnson County,Joe Biden,DEM,1281,FALSE
+Illinois,Johnson County,Jo Jorgensen,LIB,53,FALSE
+Illinois,Johnson County,Howie Hawkins,GRN,37,FALSE
+Illinois,Johnson County,Write-ins,WRI,13,FALSE
+Illinois,Johnson County,Gloria La Riva,PSL,4,FALSE
+Illinois,Johnson County,Brian Carroll,ASP,3,FALSE
+Illinois,Kane County,Joe Biden,DEM,130166,TRUE
+Illinois,Kane County,Donald Trump,REP,96775,FALSE
+Illinois,Kane County,Jo Jorgensen,LIB,2878,FALSE
+Illinois,Kane County,Howie Hawkins,GRN,1201,FALSE
+Illinois,Kane County,Brian Carroll,ASP,543,FALSE
+Illinois,Kane County,Gloria La Riva,PSL,300,FALSE
+Illinois,Kane County,Write-ins,WRI,13,FALSE
+Illinois,Kankakee County,Donald Trump,REP,28532,TRUE
+Illinois,Kankakee County,Joe Biden,DEM,20271,FALSE
+Illinois,Kankakee County,Jo Jorgensen,LIB,804,FALSE
+Illinois,Kankakee County,Howie Hawkins,GRN,191,FALSE
+Illinois,Kankakee County,Write-ins,WRI,137,FALSE
+Illinois,Kankakee County,Brian Carroll,ASP,60,FALSE
+Illinois,Kankakee County,Gloria La Riva,PSL,44,FALSE
+Illinois,Kendall County,Joe Biden,DEM,33168,TRUE
+Illinois,Kendall County,Donald Trump,REP,29492,FALSE
+Illinois,Kendall County,Jo Jorgensen,LIB,810,FALSE
+Illinois,Kendall County,Howie Hawkins,GRN,334,FALSE
+Illinois,Kendall County,Write-ins,WRI,234,FALSE
+Illinois,Kendall County,Brian Carroll,ASP,102,FALSE
+Illinois,Kendall County,Gloria La Riva,PSL,65,FALSE
+Illinois,Knox County,Donald Trump,REP,12009,TRUE
+Illinois,Knox County,Joe Biden,DEM,10703,FALSE
+Illinois,Knox County,Jo Jorgensen,LIB,258,FALSE
+Illinois,Knox County,Howie Hawkins,GRN,115,FALSE
+Illinois,Knox County,Write-ins,WRI,62,FALSE
+Illinois,Knox County,Gloria La Riva,PSL,36,FALSE
+Illinois,Knox County,Brian Carroll,ASP,22,FALSE
+Illinois,Lake County,Joe Biden,DEM,204032,TRUE
+Illinois,Lake County,Donald Trump,REP,123594,FALSE
+Illinois,Lake County,Jo Jorgensen,LIB,4160,FALSE
+Illinois,Lake County,Howie Hawkins,GRN,1441,FALSE
+Illinois,Lake County,Brian Carroll,ASP,553,FALSE
+Illinois,Lake County,Gloria La Riva,PSL,376,FALSE
+Illinois,Lake County,Write-ins,WRI,0,FALSE
+Illinois,LaSalle County,Donald Trump,REP,30113,TRUE
+Illinois,LaSalle County,Joe Biden,DEM,22442,FALSE
+Illinois,LaSalle County,Jo Jorgensen,LIB,675,FALSE
+Illinois,LaSalle County,Howie Hawkins,GRN,255,FALSE
+Illinois,LaSalle County,Write-ins,WRI,93,FALSE
+Illinois,LaSalle County,Gloria La Riva,PSL,54,FALSE
+Illinois,LaSalle County,Brian Carroll,ASP,51,FALSE
+Illinois,Lawrence County,Donald Trump,REP,4886,TRUE
+Illinois,Lawrence County,Joe Biden,DEM,1419,FALSE
+Illinois,Lawrence County,Jo Jorgensen,LIB,82,FALSE
+Illinois,Lawrence County,Howie Hawkins,GRN,19,FALSE
+Illinois,Lawrence County,Write-ins,WRI,11,FALSE
+Illinois,Lawrence County,Gloria La Riva,PSL,3,FALSE
+Illinois,Lawrence County,Brian Carroll,ASP,2,FALSE
+Illinois,Lee County,Donald Trump,REP,9630,TRUE
+Illinois,Lee County,Joe Biden,DEM,6407,FALSE
+Illinois,Lee County,Jo Jorgensen,LIB,229,FALSE
+Illinois,Lee County,Howie Hawkins,GRN,97,FALSE
+Illinois,Lee County,Write-ins,WRI,43,FALSE
+Illinois,Lee County,Brian Carroll,ASP,22,FALSE
+Illinois,Lee County,Gloria La Riva,PSL,12,FALSE
+Illinois,Livingston County,Donald Trump,REP,12208,TRUE
+Illinois,Livingston County,Joe Biden,DEM,4615,FALSE
+Illinois,Livingston County,Jo Jorgensen,LIB,244,FALSE
+Illinois,Livingston County,Howie Hawkins,GRN,73,FALSE
+Illinois,Livingston County,Brian Carroll,ASP,22,FALSE
+Illinois,Livingston County,Gloria La Riva,PSL,12,FALSE
+Illinois,Livingston County,Write-ins,WRI,0,FALSE
+Illinois,Logan County,Donald Trump,REP,9136,TRUE
+Illinois,Logan County,Joe Biden,DEM,3840,FALSE
+Illinois,Logan County,Jo Jorgensen,LIB,211,FALSE
+Illinois,Logan County,Howie Hawkins,GRN,66,FALSE
+Illinois,Logan County,Brian Carroll,ASP,27,FALSE
+Illinois,Logan County,Gloria La Riva,PSL,14,FALSE
+Illinois,Logan County,Write-ins,WRI,0,FALSE
+Illinois,McDonough County,Donald Trump,REP,7027,TRUE
+Illinois,McDonough County,Joe Biden,DEM,4992,FALSE
+Illinois,McDonough County,Jo Jorgensen,LIB,173,FALSE
+Illinois,McDonough County,Howie Hawkins,GRN,54,FALSE
+Illinois,McDonough County,Gloria La Riva,PSL,20,FALSE
+Illinois,McDonough County,Brian Carroll,ASP,19,FALSE
+Illinois,McDonough County,Write-ins,WRI,0,FALSE
+Illinois,McHenry County,Donald Trump,REP,82260,TRUE
+Illinois,McHenry County,Joe Biden,DEM,78154,FALSE
+Illinois,McHenry County,Jo Jorgensen,LIB,2176,FALSE
+Illinois,McHenry County,Howie Hawkins,GRN,781,FALSE
+Illinois,McHenry County,Write-ins,WRI,704,FALSE
+Illinois,McHenry County,Brian Carroll,ASP,298,FALSE
+Illinois,McHenry County,Gloria La Riva,PSL,205,FALSE
+Illinois,McLean County,Joe Biden,DEM,43933,TRUE
+Illinois,McLean County,Donald Trump,REP,40502,FALSE
+Illinois,McLean County,Jo Jorgensen,LIB,1624,FALSE
+Illinois,McLean County,Howie Hawkins,GRN,502,FALSE
+Illinois,McLean County,Write-ins,WRI,389,FALSE
+Illinois,McLean County,Brian Carroll,ASP,283,FALSE
+Illinois,McLean County,Gloria La Riva,PSL,156,FALSE
+Illinois,Macon County,Donald Trump,REP,28589,TRUE
+Illinois,Macon County,Joe Biden,DEM,19847,FALSE
+Illinois,Macon County,Jo Jorgensen,LIB,597,FALSE
+Illinois,Macon County,Howie Hawkins,GRN,211,FALSE
+Illinois,Macon County,Brian Carroll,ASP,84,FALSE
+Illinois,Macon County,Gloria La Riva,PSL,59,FALSE
+Illinois,Macon County,Write-ins,WRI,0,FALSE
+Illinois,Macoupin County,Donald Trump,REP,16153,TRUE
+Illinois,Macoupin County,Joe Biden,DEM,7365,FALSE
+Illinois,Macoupin County,Jo Jorgensen,LIB,350,FALSE
+Illinois,Macoupin County,Howie Hawkins,GRN,110,FALSE
+Illinois,Macoupin County,Write-ins,WRI,48,FALSE
+Illinois,Macoupin County,Brian Carroll,ASP,24,FALSE
+Illinois,Macoupin County,Gloria La Riva,PSL,20,FALSE
+Illinois,Madison County,Donald Trump,REP,76031,TRUE
+Illinois,Madison County,Joe Biden,DEM,57836,FALSE
+Illinois,Madison County,Jo Jorgensen,LIB,2169,FALSE
+Illinois,Madison County,Howie Hawkins,GRN,710,FALSE
+Illinois,Madison County,Write-ins,WRI,423,FALSE
+Illinois,Madison County,Brian Carroll,ASP,206,FALSE
+Illinois,Madison County,Gloria La Riva,PSL,183,FALSE
+Illinois,Marion County,Donald Trump,REP,12678,TRUE
+Illinois,Marion County,Joe Biden,DEM,4524,FALSE
+Illinois,Marion County,Jo Jorgensen,LIB,163,FALSE
+Illinois,Marion County,Howie Hawkins,GRN,74,FALSE
+Illinois,Marion County,Write-ins,WRI,34,FALSE
+Illinois,Marion County,Gloria La Riva,PSL,10,FALSE
+Illinois,Marion County,Brian Carroll,ASP,9,FALSE
+Illinois,Marshall County,Donald Trump,REP,4197,TRUE
+Illinois,Marshall County,Joe Biden,DEM,2005,FALSE
+Illinois,Marshall County,Jo Jorgensen,LIB,94,FALSE
+Illinois,Marshall County,Howie Hawkins,GRN,27,FALSE
+Illinois,Marshall County,Write-ins,WRI,11,FALSE
+Illinois,Marshall County,Brian Carroll,ASP,6,FALSE
+Illinois,Marshall County,Gloria La Riva,PSL,5,FALSE
+Illinois,Mason County,Donald Trump,REP,4654,TRUE
+Illinois,Mason County,Joe Biden,DEM,1985,FALSE
+Illinois,Mason County,Jo Jorgensen,LIB,78,FALSE
+Illinois,Mason County,Howie Hawkins,GRN,31,FALSE
+Illinois,Mason County,Gloria La Riva,PSL,11,FALSE
+Illinois,Mason County,Brian Carroll,ASP,7,FALSE
+Illinois,Mason County,Write-ins,WRI,0,FALSE
+Illinois,Massac County,Donald Trump,REP,4997,TRUE
+Illinois,Massac County,Joe Biden,DEM,1725,FALSE
+Illinois,Massac County,Jo Jorgensen,LIB,65,FALSE
+Illinois,Massac County,Howie Hawkins,GRN,14,FALSE
+Illinois,Massac County,Brian Carroll,ASP,7,FALSE
+Illinois,Massac County,Gloria La Riva,PSL,5,FALSE
+Illinois,Massac County,Write-ins,WRI,5,FALSE
+Illinois,Menard County,Donald Trump,REP,4764,TRUE
+Illinois,Menard County,Joe Biden,DEM,2022,FALSE
+Illinois,Menard County,Jo Jorgensen,LIB,95,FALSE
+Illinois,Menard County,Howie Hawkins,GRN,33,FALSE
+Illinois,Menard County,Write-ins,WRI,26,FALSE
+Illinois,Menard County,Gloria La Riva,PSL,9,FALSE
+Illinois,Menard County,Brian Carroll,ASP,5,FALSE
+Illinois,Mercer County,Donald Trump,REP,5418,TRUE
+Illinois,Mercer County,Joe Biden,DEM,3280,FALSE
+Illinois,Mercer County,Jo Jorgensen,LIB,134,FALSE
+Illinois,Mercer County,Howie Hawkins,GRN,48,FALSE
+Illinois,Mercer County,Write-ins,WRI,21,FALSE
+Illinois,Mercer County,Gloria La Riva,PSL,8,FALSE
+Illinois,Mercer County,Brian Carroll,ASP,5,FALSE
+Illinois,Monroe County,Donald Trump,REP,14142,TRUE
+Illinois,Monroe County,Joe Biden,DEM,6569,FALSE
+Illinois,Monroe County,Jo Jorgensen,LIB,309,FALSE
+Illinois,Monroe County,Howie Hawkins,GRN,83,FALSE
+Illinois,Monroe County,Write-ins,WRI,58,FALSE
+Illinois,Monroe County,Brian Carroll,ASP,28,FALSE
+Illinois,Monroe County,Gloria La Riva,PSL,17,FALSE
+Illinois,Montgomery County,Donald Trump,REP,9544,TRUE
+Illinois,Montgomery County,Joe Biden,DEM,3905,FALSE
+Illinois,Montgomery County,Jo Jorgensen,LIB,204,FALSE
+Illinois,Montgomery County,Howie Hawkins,GRN,53,FALSE
+Illinois,Montgomery County,Write-ins,WRI,34,FALSE
+Illinois,Montgomery County,Brian Carroll,ASP,14,FALSE
+Illinois,Montgomery County,Gloria La Riva,PSL,7,FALSE
+Illinois,Morgan County,Donald Trump,REP,9950,TRUE
+Illinois,Morgan County,Joe Biden,DEM,5076,FALSE
+Illinois,Morgan County,Jo Jorgensen,LIB,198,FALSE
+Illinois,Morgan County,Howie Hawkins,GRN,55,FALSE
+Illinois,Morgan County,Write-ins,WRI,24,FALSE
+Illinois,Morgan County,Brian Carroll,ASP,15,FALSE
+Illinois,Morgan County,Gloria La Riva,PSL,15,FALSE
+Illinois,Moultrie County,Donald Trump,REP,4964,TRUE
+Illinois,Moultrie County,Joe Biden,DEM,1662,FALSE
+Illinois,Moultrie County,Jo Jorgensen,LIB,87,FALSE
+Illinois,Moultrie County,Howie Hawkins,GRN,24,FALSE
+Illinois,Moultrie County,Brian Carroll,ASP,4,FALSE
+Illinois,Moultrie County,Gloria La Riva,PSL,3,FALSE
+Illinois,Moultrie County,Write-ins,WRI,0,FALSE
+Illinois,Ogle County,Donald Trump,REP,16248,TRUE
+Illinois,Ogle County,Joe Biden,DEM,9428,FALSE
+Illinois,Ogle County,Jo Jorgensen,LIB,389,FALSE
+Illinois,Ogle County,Howie Hawkins,GRN,143,FALSE
+Illinois,Ogle County,Write-ins,WRI,68,FALSE
+Illinois,Ogle County,Brian Carroll,ASP,41,FALSE
+Illinois,Ogle County,Gloria La Riva,PSL,23,FALSE
+Illinois,Peoria County,Joe Biden,DEM,43578,TRUE
+Illinois,Peoria County,Donald Trump,REP,38252,FALSE
+Illinois,Peoria County,Jo Jorgensen,LIB,1309,FALSE
+Illinois,Peoria County,Howie Hawkins,GRN,507,FALSE
+Illinois,Peoria County,Brian Carroll,ASP,216,FALSE
+Illinois,Peoria County,Gloria La Riva,PSL,105,FALSE
+Illinois,Peoria County,Write-ins,WRI,6,FALSE
+Illinois,Perry County,Donald Trump,REP,7313,TRUE
+Illinois,Perry County,Joe Biden,DEM,2612,FALSE
+Illinois,Perry County,Jo Jorgensen,LIB,69,FALSE
+Illinois,Perry County,Howie Hawkins,GRN,52,FALSE
+Illinois,Perry County,Write-ins,WRI,18,FALSE
+Illinois,Perry County,Gloria La Riva,PSL,4,FALSE
+Illinois,Perry County,Brian Carroll,ASP,3,FALSE
+Illinois,Piatt County,Donald Trump,REP,6248,TRUE
+Illinois,Piatt County,Joe Biden,DEM,3329,FALSE
+Illinois,Piatt County,Jo Jorgensen,LIB,168,FALSE
+Illinois,Piatt County,Howie Hawkins,GRN,35,FALSE
+Illinois,Piatt County,Write-ins,WRI,29,FALSE
+Illinois,Piatt County,Brian Carroll,ASP,28,FALSE
+Illinois,Piatt County,Gloria La Riva,PSL,14,FALSE
+Illinois,Pike County,Donald Trump,REP,6332,TRUE
+Illinois,Pike County,Joe Biden,DEM,1484,FALSE
+Illinois,Pike County,Jo Jorgensen,LIB,110,FALSE
+Illinois,Pike County,Write-ins,WRI,16,FALSE
+Illinois,Pike County,Howie Hawkins,GRN,15,FALSE
+Illinois,Pike County,Brian Carroll,ASP,4,FALSE
+Illinois,Pike County,Gloria La Riva,PSL,4,FALSE
+Illinois,Pope County,Donald Trump,REP,1722,TRUE
+Illinois,Pope County,Joe Biden,DEM,433,FALSE
+Illinois,Pope County,Jo Jorgensen,LIB,16,FALSE
+Illinois,Pope County,Howie Hawkins,GRN,4,FALSE
+Illinois,Pope County,Brian Carroll,ASP,0,FALSE
+Illinois,Pope County,Gloria La Riva,PSL,0,FALSE
+Illinois,Pope County,Write-ins,WRI,0,FALSE
+Illinois,Pulaski County,Donald Trump,REP,1699,TRUE
+Illinois,Pulaski County,Joe Biden,DEM,891,FALSE
+Illinois,Pulaski County,Jo Jorgensen,LIB,23,FALSE
+Illinois,Pulaski County,Howie Hawkins,GRN,7,FALSE
+Illinois,Pulaski County,Write-ins,WRI,7,FALSE
+Illinois,Pulaski County,Brian Carroll,ASP,4,FALSE
+Illinois,Pulaski County,Gloria La Riva,PSL,0,FALSE
+Illinois,Putnam County,Donald Trump,REP,1993,TRUE
+Illinois,Putnam County,Joe Biden,DEM,1338,FALSE
+Illinois,Putnam County,Jo Jorgensen,LIB,33,FALSE
+Illinois,Putnam County,Howie Hawkins,GRN,17,FALSE
+Illinois,Putnam County,Brian Carroll,ASP,7,FALSE
+Illinois,Putnam County,Gloria La Riva,PSL,2,FALSE
+Illinois,Putnam County,Write-ins,WRI,0,FALSE
+Illinois,Randolph County,Donald Trump,REP,11076,TRUE
+Illinois,Randolph County,Joe Biden,DEM,3592,FALSE
+Illinois,Randolph County,Jo Jorgensen,LIB,132,FALSE
+Illinois,Randolph County,Howie Hawkins,GRN,69,FALSE
+Illinois,Randolph County,Write-ins,WRI,19,FALSE
+Illinois,Randolph County,Brian Carroll,ASP,17,FALSE
+Illinois,Randolph County,Gloria La Riva,PSL,5,FALSE
+Illinois,Richland County,Donald Trump,REP,6089,TRUE
+Illinois,Richland County,Joe Biden,DEM,1830,FALSE
+Illinois,Richland County,Jo Jorgensen,LIB,100,FALSE
+Illinois,Richland County,Howie Hawkins,GRN,27,FALSE
+Illinois,Richland County,Gloria La Riva,PSL,9,FALSE
+Illinois,Richland County,Brian Carroll,ASP,8,FALSE
+Illinois,Richland County,Write-ins,WRI,0,FALSE
+Illinois,Rock Island County,Joe Biden,DEM,36691,TRUE
+Illinois,Rock Island County,Donald Trump,REP,28603,FALSE
+Illinois,Rock Island County,Jo Jorgensen,LIB,959,FALSE
+Illinois,Rock Island County,Howie Hawkins,GRN,310,FALSE
+Illinois,Rock Island County,Brian Carroll,ASP,107,FALSE
+Illinois,Rock Island County,Gloria La Riva,PSL,88,FALSE
+Illinois,Rock Island County,Write-ins,WRI,59,FALSE
+Illinois,St. Clair County,Joe Biden,DEM,68325,TRUE
+Illinois,St. Clair County,Donald Trump,REP,57150,FALSE
+Illinois,St. Clair County,Jo Jorgensen,LIB,1615,FALSE
+Illinois,St. Clair County,Howie Hawkins,GRN,666,FALSE
+Illinois,St. Clair County,Brian Carroll,ASP,187,FALSE
+Illinois,St. Clair County,Gloria La Riva,PSL,147,FALSE
+Illinois,St. Clair County,Write-ins,WRI,14,FALSE
+Illinois,Saline County,Donald Trump,REP,8103,TRUE
+Illinois,Saline County,Joe Biden,DEM,2789,FALSE
+Illinois,Saline County,Jo Jorgensen,LIB,124,FALSE
+Illinois,Saline County,Howie Hawkins,GRN,35,FALSE
+Illinois,Saline County,Write-ins,WRI,23,FALSE
+Illinois,Saline County,Gloria La Riva,PSL,11,FALSE
+Illinois,Saline County,Brian Carroll,ASP,4,FALSE
+Illinois,Sangamon County,Donald Trump,REP,53485,TRUE
+Illinois,Sangamon County,Joe Biden,DEM,48917,FALSE
+Illinois,Sangamon County,Jo Jorgensen,LIB,1449,FALSE
+Illinois,Sangamon County,Howie Hawkins,GRN,620,FALSE
+Illinois,Sangamon County,Brian Carroll,ASP,165,FALSE
+Illinois,Sangamon County,Gloria La Riva,PSL,115,FALSE
+Illinois,Sangamon County,Write-ins,WRI,0,FALSE
+Illinois,Schuyler County,Donald Trump,REP,2773,TRUE
+Illinois,Schuyler County,Joe Biden,DEM,1068,FALSE
+Illinois,Schuyler County,Jo Jorgensen,LIB,48,FALSE
+Illinois,Schuyler County,Howie Hawkins,GRN,12,FALSE
+Illinois,Schuyler County,Write-ins,WRI,12,FALSE
+Illinois,Schuyler County,Brian Carroll,ASP,3,FALSE
+Illinois,Schuyler County,Gloria La Riva,PSL,2,FALSE
+Illinois,Scott County,Donald Trump,REP,2114,TRUE
+Illinois,Scott County,Joe Biden,DEM,572,FALSE
+Illinois,Scott County,Jo Jorgensen,LIB,31,FALSE
+Illinois,Scott County,Howie Hawkins,GRN,11,FALSE
+Illinois,Scott County,Gloria La Riva,PSL,5,FALSE
+Illinois,Scott County,Brian Carroll,ASP,4,FALSE
+Illinois,Scott County,Write-ins,WRI,4,FALSE
+Illinois,Shelby County,Donald Trump,REP,9426,TRUE
+Illinois,Shelby County,Joe Biden,DEM,2504,FALSE
+Illinois,Shelby County,Jo Jorgensen,LIB,109,FALSE
+Illinois,Shelby County,Howie Hawkins,GRN,45,FALSE
+Illinois,Shelby County,Brian Carroll,ASP,7,FALSE
+Illinois,Shelby County,Gloria La Riva,PSL,5,FALSE
+Illinois,Shelby County,Write-ins,WRI,1,FALSE
+Illinois,Stark County,Donald Trump,REP,2004,TRUE
+Illinois,Stark County,Joe Biden,DEM,815,FALSE
+Illinois,Stark County,Jo Jorgensen,LIB,42,FALSE
+Illinois,Stark County,Howie Hawkins,GRN,17,FALSE
+Illinois,Stark County,Brian Carroll,ASP,3,FALSE
+Illinois,Stark County,Write-ins,WRI,3,FALSE
+Illinois,Stark County,Gloria La Riva,PSL,2,FALSE
+Illinois,Stephenson County,Donald Trump,REP,12521,TRUE
+Illinois,Stephenson County,Joe Biden,DEM,9055,FALSE
+Illinois,Stephenson County,Jo Jorgensen,LIB,328,FALSE
+Illinois,Stephenson County,Howie Hawkins,GRN,94,FALSE
+Illinois,Stephenson County,Brian Carroll,ASP,28,FALSE
+Illinois,Stephenson County,Gloria La Riva,PSL,21,FALSE
+Illinois,Stephenson County,Write-ins,WRI,1,FALSE
+Illinois,Tazewell County,Donald Trump,REP,42513,TRUE
+Illinois,Tazewell County,Joe Biden,DEM,24819,FALSE
+Illinois,Tazewell County,Jo Jorgensen,LIB,1175,FALSE
+Illinois,Tazewell County,Howie Hawkins,GRN,342,FALSE
+Illinois,Tazewell County,Brian Carroll,ASP,148,FALSE
+Illinois,Tazewell County,Gloria La Riva,PSL,54,FALSE
+Illinois,Tazewell County,Write-ins,WRI,0,FALSE
+Illinois,Union County,Donald Trump,REP,6161,TRUE
+Illinois,Union County,Joe Biden,DEM,2579,FALSE
+Illinois,Union County,Jo Jorgensen,LIB,89,FALSE
+Illinois,Union County,Howie Hawkins,GRN,32,FALSE
+Illinois,Union County,Write-ins,WRI,18,FALSE
+Illinois,Union County,Brian Carroll,ASP,14,FALSE
+Illinois,Union County,Gloria La Riva,PSL,11,FALSE
+Illinois,Vermilion County,Donald Trump,REP,20725,TRUE
+Illinois,Vermilion County,Joe Biden,DEM,10323,FALSE
+Illinois,Vermilion County,Jo Jorgensen,LIB,350,FALSE
+Illinois,Vermilion County,Howie Hawkins,GRN,127,FALSE
+Illinois,Vermilion County,Write-ins,WRI,58,FALSE
+Illinois,Vermilion County,Brian Carroll,ASP,39,FALSE
+Illinois,Vermilion County,Gloria La Riva,PSL,20,FALSE
+Illinois,Wabash County,Donald Trump,REP,4237,TRUE
+Illinois,Wabash County,Joe Biden,DEM,1253,FALSE
+Illinois,Wabash County,Jo Jorgensen,LIB,78,FALSE
+Illinois,Wabash County,Howie Hawkins,GRN,14,FALSE
+Illinois,Wabash County,Write-ins,WRI,14,FALSE
+Illinois,Wabash County,Brian Carroll,ASP,6,FALSE
+Illinois,Wabash County,Gloria La Riva,PSL,5,FALSE
+Illinois,Warren County,Donald Trump,REP,4676,TRUE
+Illinois,Warren County,Joe Biden,DEM,3090,FALSE
+Illinois,Warren County,Jo Jorgensen,LIB,99,FALSE
+Illinois,Warren County,Howie Hawkins,GRN,34,FALSE
+Illinois,Warren County,Write-ins,WRI,15,FALSE
+Illinois,Warren County,Brian Carroll,ASP,5,FALSE
+Illinois,Warren County,Gloria La Riva,PSL,5,FALSE
+Illinois,Washington County,Donald Trump,REP,6115,TRUE
+Illinois,Washington County,Joe Biden,DEM,1641,FALSE
+Illinois,Washington County,Jo Jorgensen,LIB,92,FALSE
+Illinois,Washington County,Howie Hawkins,GRN,42,FALSE
+Illinois,Washington County,Write-ins,WRI,19,FALSE
+Illinois,Washington County,Brian Carroll,ASP,9,FALSE
+Illinois,Washington County,Gloria La Riva,PSL,3,FALSE
+Illinois,Wayne County,Donald Trump,REP,7176,TRUE
+Illinois,Wayne County,Joe Biden,DEM,1187,FALSE
+Illinois,Wayne County,Jo Jorgensen,LIB,90,FALSE
+Illinois,Wayne County,Howie Hawkins,GRN,23,FALSE
+Illinois,Wayne County,Write-ins,WRI,13,FALSE
+Illinois,Wayne County,Brian Carroll,ASP,7,FALSE
+Illinois,Wayne County,Gloria La Riva,PSL,3,FALSE
+Illinois,White County,Donald Trump,REP,5791,TRUE
+Illinois,White County,Joe Biden,DEM,1517,FALSE
+Illinois,White County,Jo Jorgensen,LIB,82,FALSE
+Illinois,White County,Howie Hawkins,GRN,23,FALSE
+Illinois,White County,Write-ins,WRI,10,FALSE
+Illinois,White County,Brian Carroll,ASP,5,FALSE
+Illinois,White County,Gloria La Riva,PSL,3,FALSE
+Illinois,Whiteside County,Donald Trump,REP,14527,TRUE
+Illinois,Whiteside County,Joe Biden,DEM,12253,FALSE
+Illinois,Whiteside County,Jo Jorgensen,LIB,382,FALSE
+Illinois,Whiteside County,Howie Hawkins,GRN,154,FALSE
+Illinois,Whiteside County,Brian Carroll,ASP,37,FALSE
+Illinois,Whiteside County,Gloria La Riva,PSL,22,FALSE
+Illinois,Whiteside County,Write-ins,WRI,0,FALSE
+Illinois,Will County,Joe Biden,DEM,183915,TRUE
+Illinois,Will County,Donald Trump,REP,155116,FALSE
+Illinois,Will County,Jo Jorgensen,LIB,3672,FALSE
+Illinois,Will County,Howie Hawkins,GRN,1614,FALSE
+Illinois,Will County,Write-ins,WRI,1171,FALSE
+Illinois,Will County,Brian Carroll,ASP,459,FALSE
+Illinois,Will County,Gloria La Riva,PSL,319,FALSE
+Illinois,Williamson County,Donald Trump,REP,22801,TRUE
+Illinois,Williamson County,Joe Biden,DEM,10206,FALSE
+Illinois,Williamson County,Jo Jorgensen,LIB,420,FALSE
+Illinois,Williamson County,Howie Hawkins,GRN,169,FALSE
+Illinois,Williamson County,Write-ins,WRI,77,FALSE
+Illinois,Williamson County,Brian Carroll,ASP,32,FALSE
+Illinois,Williamson County,Gloria La Riva,PSL,24,FALSE
+Illinois,Winnebago County,Joe Biden,DEM,64056,TRUE
+Illinois,Winnebago County,Donald Trump,REP,60861,FALSE
+Illinois,Winnebago County,Jo Jorgensen,LIB,1719,FALSE
+Illinois,Winnebago County,Howie Hawkins,GRN,645,FALSE
+Illinois,Winnebago County,Brian Carroll,ASP,255,FALSE
+Illinois,Winnebago County,Gloria La Riva,PSL,173,FALSE
+Illinois,Winnebago County,Write-ins,WRI,1,FALSE
+Illinois,Woodford County,Donald Trump,REP,14799,TRUE
+Illinois,Woodford County,Joe Biden,DEM,6160,FALSE
+Illinois,Woodford County,Jo Jorgensen,LIB,314,FALSE
+Illinois,Woodford County,Howie Hawkins,GRN,103,FALSE
+Illinois,Woodford County,Write-ins,WRI,66,FALSE
+Illinois,Woodford County,Brian Carroll,ASP,39,FALSE
+Illinois,Woodford County,Gloria La Riva,PSL,17,FALSE
+Illinois,Cook Suburbs,Joe Biden,DEM,781238,TRUE
+Illinois,Cook Suburbs,Donald Trump,REP,377035,FALSE
+Illinois,Cook Suburbs,Jo Jorgensen,LIB,9578,FALSE
+Illinois,Cook Suburbs,Howie Hawkins,GRN,5843,FALSE
+Illinois,Cook Suburbs,Brian Carroll,ASP,1587,FALSE
+Illinois,Cook Suburbs,Gloria La Riva,PSL,1377,FALSE
+Illinois,Cook Suburbs,Write-ins,WRI,0,FALSE
+Texas,Anderson County,Donald Trump,REP,15110,TRUE
+Texas,Anderson County,Joe Biden,DEM,3955,FALSE
+Texas,Anderson County,Jo Jorgensen,LIB,134,FALSE
+Texas,Anderson County,Howie Hawkins,GRN,22,FALSE
+Texas,Anderson County,Write-ins,WRI,6,FALSE
+Texas,Andrews County,Donald Trump,REP,4943,TRUE
+Texas,Andrews County,Joe Biden,DEM,850,FALSE
+Texas,Andrews County,Jo Jorgensen,LIB,60,FALSE
+Texas,Andrews County,Howie Hawkins,GRN,10,FALSE
+Texas,Andrews County,Write-ins,WRI,0,FALSE
+Texas,Angelina County,Donald Trump,REP,25076,TRUE
+Texas,Angelina County,Joe Biden,DEM,9143,FALSE
+Texas,Angelina County,Jo Jorgensen,LIB,274,FALSE
+Texas,Angelina County,Howie Hawkins,GRN,75,FALSE
+Texas,Angelina County,Write-ins,WRI,6,FALSE
+Texas,Aransas County,Donald Trump,REP,9239,TRUE
+Texas,Aransas County,Joe Biden,DEM,2916,FALSE
+Texas,Aransas County,Jo Jorgensen,LIB,103,FALSE
+Texas,Aransas County,Howie Hawkins,GRN,31,FALSE
+Texas,Aransas County,Write-ins,WRI,1,FALSE
+Texas,Archer County,Donald Trump,REP,4300,TRUE
+Texas,Archer County,Joe Biden,DEM,446,FALSE
+Texas,Archer County,Jo Jorgensen,LIB,45,FALSE
+Texas,Archer County,Howie Hawkins,GRN,4,FALSE
+Texas,Archer County,Write-ins,WRI,1,FALSE
+Texas,Armstrong County,Donald Trump,REP,1035,TRUE
+Texas,Armstrong County,Joe Biden,DEM,75,FALSE
+Texas,Armstrong County,Jo Jorgensen,LIB,2,FALSE
+Texas,Armstrong County,Howie Hawkins,GRN,0,FALSE
+Texas,Armstrong County,Write-ins,WRI,0,FALSE
+Texas,Atascosa County,Donald Trump,REP,12039,TRUE
+Texas,Atascosa County,Joe Biden,DEM,5876,FALSE
+Texas,Atascosa County,Jo Jorgensen,LIB,143,FALSE
+Texas,Atascosa County,Howie Hawkins,GRN,58,FALSE
+Texas,Atascosa County,Write-ins,WRI,2,FALSE
+Texas,Austin County,Donald Trump,REP,11447,TRUE
+Texas,Austin County,Joe Biden,DEM,2951,FALSE
+Texas,Austin County,Jo Jorgensen,LIB,123,FALSE
+Texas,Austin County,Howie Hawkins,GRN,33,FALSE
+Texas,Austin County,Write-ins,WRI,0,FALSE
+Texas,Bailey County,Donald Trump,REP,1434,TRUE
+Texas,Bailey County,Joe Biden,DEM,409,FALSE
+Texas,Bailey County,Jo Jorgensen,LIB,14,FALSE
+Texas,Bailey County,Howie Hawkins,GRN,2,FALSE
+Texas,Bailey County,Write-ins,WRI,1,FALSE
+Texas,Bandera County,Donald Trump,REP,10057,TRUE
+Texas,Bandera County,Joe Biden,DEM,2505,FALSE
+Texas,Bandera County,Jo Jorgensen,LIB,120,FALSE
+Texas,Bandera County,Howie Hawkins,GRN,30,FALSE
+Texas,Bandera County,Write-ins,WRI,3,FALSE
+Texas,Bastrop County,Donald Trump,REP,20516,TRUE
+Texas,Bastrop County,Joe Biden,DEM,15474,FALSE
+Texas,Bastrop County,Jo Jorgensen,LIB,531,FALSE
+Texas,Bastrop County,Howie Hawkins,GRN,128,FALSE
+Texas,Bastrop County,Write-ins,WRI,16,FALSE
+Texas,Baylor County,Donald Trump,REP,1494,TRUE
+Texas,Baylor County,Joe Biden,DEM,183,FALSE
+Texas,Baylor County,Jo Jorgensen,LIB,22,FALSE
+Texas,Baylor County,Write-ins,WRI,2,FALSE
+Texas,Baylor County,Howie Hawkins,GRN,1,FALSE
+Texas,Bee County,Donald Trump,REP,6006,TRUE
+Texas,Bee County,Joe Biden,DEM,3288,FALSE
+Texas,Bee County,Jo Jorgensen,LIB,93,FALSE
+Texas,Bee County,Howie Hawkins,GRN,27,FALSE
+Texas,Bee County,Write-ins,WRI,6,FALSE
+Texas,Bell County,Donald Trump,REP,67893,TRUE
+Texas,Bell County,Joe Biden,DEM,57014,FALSE
+Texas,Bell County,Jo Jorgensen,LIB,1980,FALSE
+Texas,Bell County,Howie Hawkins,GRN,440,FALSE
+Texas,Bell County,Write-ins,WRI,48,FALSE
+Texas,Bexar County,Joe Biden,DEM,448452,TRUE
+Texas,Bexar County,Donald Trump,REP,308618,FALSE
+Texas,Bexar County,Jo Jorgensen,LIB,8837,FALSE
+Texas,Bexar County,Howie Hawkins,GRN,2798,FALSE
+Texas,Bexar County,Write-ins,WRI,247,FALSE
+Texas,Blanco County,Donald Trump,REP,5443,TRUE
+Texas,Blanco County,Joe Biden,DEM,1911,FALSE
+Texas,Blanco County,Jo Jorgensen,LIB,72,FALSE
+Texas,Blanco County,Howie Hawkins,GRN,15,FALSE
+Texas,Blanco County,Write-ins,WRI,0,FALSE
+Texas,Borden County,Donald Trump,REP,397,TRUE
+Texas,Borden County,Joe Biden,DEM,16,FALSE
+Texas,Borden County,Jo Jorgensen,LIB,2,FALSE
+Texas,Borden County,Howie Hawkins,GRN,1,FALSE
+Texas,Borden County,Write-ins,WRI,0,FALSE
+Texas,Bosque County,Donald Trump,REP,7469,TRUE
+Texas,Bosque County,Joe Biden,DEM,1561,FALSE
+Texas,Bosque County,Jo Jorgensen,LIB,83,FALSE
+Texas,Bosque County,Howie Hawkins,GRN,13,FALSE
+Texas,Bosque County,Write-ins,WRI,0,FALSE
+Texas,Bowie County,Donald Trump,REP,27116,TRUE
+Texas,Bowie County,Joe Biden,DEM,10747,FALSE
+Texas,Bowie County,Jo Jorgensen,LIB,300,FALSE
+Texas,Bowie County,Howie Hawkins,GRN,91,FALSE
+Texas,Bowie County,Write-ins,WRI,7,FALSE
+Texas,Brazoria County,Donald Trump,REP,90433,TRUE
+Texas,Brazoria County,Joe Biden,DEM,62228,FALSE
+Texas,Brazoria County,Jo Jorgensen,LIB,1860,FALSE
+Texas,Brazoria County,Howie Hawkins,GRN,417,FALSE
+Texas,Brazoria County,Write-ins,WRI,46,FALSE
+Texas,Brazos County,Donald Trump,REP,47530,TRUE
+Texas,Brazos County,Joe Biden,DEM,35349,FALSE
+Texas,Brazos County,Jo Jorgensen,LIB,1812,FALSE
+Texas,Brazos County,Howie Hawkins,GRN,252,FALSE
+Texas,Brazos County,Write-ins,WRI,118,FALSE
+Texas,Brewster County,Donald Trump,REP,2461,TRUE
+Texas,Brewster County,Joe Biden,DEM,2258,FALSE
+Texas,Brewster County,Jo Jorgensen,LIB,89,FALSE
+Texas,Brewster County,Howie Hawkins,GRN,14,FALSE
+Texas,Brewster County,Write-ins,WRI,0,FALSE
+Texas,Briscoe County,Donald Trump,REP,639,TRUE
+Texas,Briscoe County,Joe Biden,DEM,78,FALSE
+Texas,Briscoe County,Jo Jorgensen,LIB,7,FALSE
+Texas,Briscoe County,Howie Hawkins,GRN,1,FALSE
+Texas,Briscoe County,Write-ins,WRI,0,FALSE
+Texas,Brooks County,Joe Biden,DEM,1470,TRUE
+Texas,Brooks County,Donald Trump,REP,998,FALSE
+Texas,Brooks County,Jo Jorgensen,LIB,10,FALSE
+Texas,Brooks County,Howie Hawkins,GRN,6,FALSE
+Texas,Brooks County,Write-ins,WRI,0,FALSE
+Texas,Brown County,Donald Trump,REP,13698,TRUE
+Texas,Brown County,Joe Biden,DEM,2107,FALSE
+Texas,Brown County,Jo Jorgensen,LIB,134,FALSE
+Texas,Brown County,Howie Hawkins,GRN,24,FALSE
+Texas,Brown County,Write-ins,WRI,6,FALSE
+Texas,Burleson County,Donald Trump,REP,6743,TRUE
+Texas,Burleson County,Joe Biden,DEM,1788,FALSE
+Texas,Burleson County,Jo Jorgensen,LIB,63,FALSE
+Texas,Burleson County,Howie Hawkins,GRN,15,FALSE
+Texas,Burleson County,Write-ins,WRI,0,FALSE
+Texas,Burnet County,Donald Trump,REP,18767,TRUE
+Texas,Burnet County,Joe Biden,DEM,5639,FALSE
+Texas,Burnet County,Jo Jorgensen,LIB,268,FALSE
+Texas,Burnet County,Howie Hawkins,GRN,34,FALSE
+Texas,Burnet County,Write-ins,WRI,9,FALSE
+Texas,Caldwell County,Donald Trump,REP,8031,TRUE
+Texas,Caldwell County,Joe Biden,DEM,6672,FALSE
+Texas,Caldwell County,Jo Jorgensen,LIB,190,FALSE
+Texas,Caldwell County,Howie Hawkins,GRN,47,FALSE
+Texas,Caldwell County,Write-ins,WRI,33,FALSE
+Texas,Calhoun County,Donald Trump,REP,5641,TRUE
+Texas,Calhoun County,Joe Biden,DEM,2148,FALSE
+Texas,Calhoun County,Jo Jorgensen,LIB,61,FALSE
+Texas,Calhoun County,Howie Hawkins,GRN,6,FALSE
+Texas,Calhoun County,Write-ins,WRI,0,FALSE
+Texas,Callahan County,Donald Trump,REP,6012,TRUE
+Texas,Callahan County,Joe Biden,DEM,734,FALSE
+Texas,Callahan County,Jo Jorgensen,LIB,71,FALSE
+Texas,Callahan County,Howie Hawkins,GRN,15,FALSE
+Texas,Callahan County,Write-ins,WRI,0,FALSE
+Texas,Cameron County,Joe Biden,DEM,64063,TRUE
+Texas,Cameron County,Donald Trump,REP,49032,FALSE
+Texas,Cameron County,Jo Jorgensen,LIB,728,FALSE
+Texas,Cameron County,Howie Hawkins,GRN,336,FALSE
+Texas,Cameron County,Write-ins,WRI,15,FALSE
+Texas,Camp County,Donald Trump,REP,3626,TRUE
+Texas,Camp County,Joe Biden,DEM,1394,FALSE
+Texas,Camp County,Jo Jorgensen,LIB,31,FALSE
+Texas,Camp County,Howie Hawkins,GRN,7,FALSE
+Texas,Camp County,Write-ins,WRI,2,FALSE
+Texas,Carson County,Donald Trump,REP,2779,TRUE
+Texas,Carson County,Joe Biden,DEM,297,FALSE
+Texas,Carson County,Jo Jorgensen,LIB,37,FALSE
+Texas,Carson County,Write-ins,WRI,6,FALSE
+Texas,Carson County,Howie Hawkins,GRN,3,FALSE
+Texas,Cass County,Donald Trump,REP,11033,TRUE
+Texas,Cass County,Joe Biden,DEM,2795,FALSE
+Texas,Cass County,Jo Jorgensen,LIB,79,FALSE
+Texas,Cass County,Howie Hawkins,GRN,17,FALSE
+Texas,Cass County,Write-ins,WRI,3,FALSE
+Texas,Castro County,Donald Trump,REP,1602,TRUE
+Texas,Castro County,Joe Biden,DEM,466,FALSE
+Texas,Castro County,Jo Jorgensen,LIB,9,FALSE
+Texas,Castro County,Howie Hawkins,GRN,6,FALSE
+Texas,Chambers County,Donald Trump,REP,17353,TRUE
+Texas,Chambers County,Joe Biden,DEM,3997,FALSE
+Texas,Chambers County,Jo Jorgensen,LIB,250,FALSE
+Texas,Chambers County,Howie Hawkins,GRN,50,FALSE
+Texas,Chambers County,Write-ins,WRI,2,FALSE
+Texas,Cherokee County,Donald Trump,REP,15101,TRUE
+Texas,Cherokee County,Joe Biden,DEM,4210,FALSE
+Texas,Cherokee County,Jo Jorgensen,LIB,161,FALSE
+Texas,Cherokee County,Howie Hawkins,GRN,36,FALSE
+Texas,Childress County,Donald Trump,REP,1943,TRUE
+Texas,Childress County,Joe Biden,DEM,310,FALSE
+Texas,Childress County,Jo Jorgensen,LIB,18,FALSE
+Texas,Childress County,Howie Hawkins,GRN,8,FALSE
+Texas,Clay County,Donald Trump,REP,5069,TRUE
+Texas,Clay County,Joe Biden,DEM,614,FALSE
+Texas,Clay County,Jo Jorgensen,LIB,46,FALSE
+Texas,Clay County,Howie Hawkins,GRN,12,FALSE
+Texas,Cochran County,Donald Trump,REP,809,TRUE
+Texas,Cochran County,Joe Biden,DEM,177,FALSE
+Texas,Cochran County,Jo Jorgensen,LIB,11,FALSE
+Texas,Cochran County,Howie Hawkins,GRN,3,FALSE
+Texas,Coke County,Donald Trump,REP,1586,TRUE
+Texas,Coke County,Joe Biden,DEM,178,FALSE
+Texas,Coke County,Jo Jorgensen,LIB,10,FALSE
+Texas,Coke County,Howie Hawkins,GRN,5,FALSE
+Texas,Coke County,Write-ins,WRI,0,FALSE
+Texas,Coleman County,Donald Trump,REP,3641,TRUE
+Texas,Coleman County,Joe Biden,DEM,451,FALSE
+Texas,Coleman County,Jo Jorgensen,LIB,23,FALSE
+Texas,Coleman County,Howie Hawkins,GRN,9,FALSE
+Texas,Coleman County,Write-ins,WRI,0,FALSE
+Texas,Collin County,Donald Trump,REP,252318,TRUE
+Texas,Collin County,Joe Biden,DEM,230945,FALSE
+Texas,Collin County,Jo Jorgensen,LIB,6075,FALSE
+Texas,Collin County,Write-ins,WRI,1632,FALSE
+Texas,Collin County,Howie Hawkins,GRN,1246,FALSE
+Texas,Collingsworth County,Donald Trump,REP,1048,TRUE
+Texas,Collingsworth County,Joe Biden,DEM,155,FALSE
+Texas,Collingsworth County,Jo Jorgensen,LIB,12,FALSE
+Texas,Collingsworth County,Write-ins,WRI,2,FALSE
+Texas,Collingsworth County,Howie Hawkins,GRN,1,FALSE
+Texas,Colorado County,Donald Trump,REP,7472,TRUE
+Texas,Colorado County,Joe Biden,DEM,2420,FALSE
+Texas,Colorado County,Jo Jorgensen,LIB,50,FALSE
+Texas,Colorado County,Howie Hawkins,GRN,19,FALSE
+Texas,Colorado County,Write-ins,WRI,14,FALSE
+Texas,Comal County,Donald Trump,REP,62740,TRUE
+Texas,Comal County,Joe Biden,DEM,24826,FALSE
+Texas,Comal County,Jo Jorgensen,LIB,1106,FALSE
+Texas,Comal County,Howie Hawkins,GRN,191,FALSE
+Texas,Comanche County,Donald Trump,REP,5177,TRUE
+Texas,Comanche County,Joe Biden,DEM,853,FALSE
+Texas,Comanche County,Jo Jorgensen,LIB,49,FALSE
+Texas,Comanche County,Howie Hawkins,GRN,5,FALSE
+Texas,Comanche County,Write-ins,WRI,2,FALSE
+Texas,Concho County,Donald Trump,REP,1058,TRUE
+Texas,Concho County,Joe Biden,DEM,197,FALSE
+Texas,Concho County,Jo Jorgensen,LIB,10,FALSE
+Texas,Concho County,Howie Hawkins,GRN,3,FALSE
+Texas,Cooke County,Donald Trump,REP,15596,TRUE
+Texas,Cooke County,Joe Biden,DEM,3210,FALSE
+Texas,Cooke County,Jo Jorgensen,LIB,156,FALSE
+Texas,Cooke County,Howie Hawkins,GRN,26,FALSE
+Texas,Coryell County,Donald Trump,REP,15438,TRUE
+Texas,Coryell County,Joe Biden,DEM,7565,FALSE
+Texas,Coryell County,Jo Jorgensen,LIB,410,FALSE
+Texas,Coryell County,Howie Hawkins,GRN,77,FALSE
+Texas,Cottle County,Donald Trump,REP,540,TRUE
+Texas,Cottle County,Joe Biden,DEM,113,FALSE
+Texas,Cottle County,Jo Jorgensen,LIB,6,FALSE
+Texas,Cottle County,Howie Hawkins,GRN,3,FALSE
+Texas,Cottle County,Write-ins,WRI,0,FALSE
+Texas,Crane County,Donald Trump,REP,1247,TRUE
+Texas,Crane County,Joe Biden,DEM,241,FALSE
+Texas,Crane County,Jo Jorgensen,LIB,10,FALSE
+Texas,Crane County,Howie Hawkins,GRN,4,FALSE
+Texas,Crane County,Write-ins,WRI,1,FALSE
+Texas,Crockett County,Donald Trump,REP,1220,TRUE
+Texas,Crockett County,Joe Biden,DEM,344,FALSE
+Texas,Crockett County,Jo Jorgensen,LIB,9,FALSE
+Texas,Crockett County,Howie Hawkins,GRN,1,FALSE
+Texas,Crosby County,Donald Trump,REP,1396,TRUE
+Texas,Crosby County,Joe Biden,DEM,527,FALSE
+Texas,Crosby County,Jo Jorgensen,LIB,22,FALSE
+Texas,Crosby County,Howie Hawkins,GRN,8,FALSE
+Texas,Culberson County,Joe Biden,DEM,438,TRUE
+Texas,Culberson County,Donald Trump,REP,415,FALSE
+Texas,Culberson County,Jo Jorgensen,LIB,9,FALSE
+Texas,Culberson County,Howie Hawkins,GRN,2,FALSE
+Texas,Dallam County,Donald Trump,REP,1389,TRUE
+Texas,Dallam County,Joe Biden,DEM,197,FALSE
+Texas,Dallam County,Jo Jorgensen,LIB,18,FALSE
+Texas,Dallam County,Howie Hawkins,GRN,5,FALSE
+Texas,Dallas County,Joe Biden,DEM,598576,TRUE
+Texas,Dallas County,Donald Trump,REP,307076,FALSE
+Texas,Dallas County,Jo Jorgensen,LIB,9635,FALSE
+Texas,Dallas County,Howie Hawkins,GRN,3667,FALSE
+Texas,Dallas County,Write-ins,WRI,2684,FALSE
+Texas,Dawson County,Donald Trump,REP,2951,TRUE
+Texas,Dawson County,Joe Biden,DEM,808,FALSE
+Texas,Dawson County,Jo Jorgensen,LIB,25,FALSE
+Texas,Dawson County,Howie Hawkins,GRN,5,FALSE
+Texas,Deaf Smith County,Donald Trump,REP,3294,TRUE
+Texas,Deaf Smith County,Joe Biden,DEM,1264,FALSE
+Texas,Deaf Smith County,Jo Jorgensen,LIB,35,FALSE
+Texas,Deaf Smith County,Howie Hawkins,GRN,17,FALSE
+Texas,Delta County,Donald Trump,REP,2162,TRUE
+Texas,Delta County,Joe Biden,DEM,403,FALSE
+Texas,Delta County,Jo Jorgensen,LIB,24,FALSE
+Texas,Delta County,Howie Hawkins,GRN,3,FALSE
+Texas,Denton County,Donald Trump,REP,222480,TRUE
+Texas,Denton County,Joe Biden,DEM,188695,FALSE
+Texas,Denton County,Jo Jorgensen,LIB,5421,FALSE
+Texas,Denton County,Howie Hawkins,GRN,1092,FALSE
+Texas,Denton County,Write-ins,WRI,276,FALSE
+Texas,DeWitt County,Donald Trump,REP,6567,TRUE
+Texas,DeWitt County,Joe Biden,DEM,1494,FALSE
+Texas,DeWitt County,Jo Jorgensen,LIB,46,FALSE
+Texas,DeWitt County,Howie Hawkins,GRN,11,FALSE
+Texas,DeWitt County,Write-ins,WRI,0,FALSE
+Texas,Dickens County,Donald Trump,REP,853,TRUE
+Texas,Dickens County,Joe Biden,DEM,130,FALSE
+Texas,Dickens County,Jo Jorgensen,LIB,3,FALSE
+Texas,Dickens County,Howie Hawkins,GRN,2,FALSE
+Texas,Dimmit County,Joe Biden,DEM,2264,TRUE
+Texas,Dimmit County,Donald Trump,REP,1384,FALSE
+Texas,Dimmit County,Jo Jorgensen,LIB,10,FALSE
+Texas,Dimmit County,Howie Hawkins,GRN,8,FALSE
+Texas,Donley County,Donald Trump,REP,1438,TRUE
+Texas,Donley County,Joe Biden,DEM,198,FALSE
+Texas,Donley County,Jo Jorgensen,LIB,11,FALSE
+Texas,Donley County,Howie Hawkins,GRN,1,FALSE
+Texas,Duval County,Joe Biden,DEM,2575,TRUE
+Texas,Duval County,Donald Trump,REP,2443,FALSE
+Texas,Duval County,Jo Jorgensen,LIB,22,FALSE
+Texas,Duval County,Howie Hawkins,GRN,13,FALSE
+Texas,Eastland County,Donald Trump,REP,7237,TRUE
+Texas,Eastland County,Joe Biden,DEM,983,FALSE
+Texas,Eastland County,Jo Jorgensen,LIB,60,FALSE
+Texas,Eastland County,Howie Hawkins,GRN,12,FALSE
+Texas,Ector County,Donald Trump,REP,32697,TRUE
+Texas,Ector County,Joe Biden,DEM,11367,FALSE
+Texas,Ector County,Jo Jorgensen,LIB,428,FALSE
+Texas,Ector County,Howie Hawkins,GRN,89,FALSE
+Texas,Edwards County,Donald Trump,REP,893,TRUE
+Texas,Edwards County,Joe Biden,DEM,168,FALSE
+Texas,Edwards County,Jo Jorgensen,LIB,5,FALSE
+Texas,Edwards County,Howie Hawkins,GRN,0,FALSE
+Texas,Ellis County,Donald Trump,REP,56717,TRUE
+Texas,Ellis County,Joe Biden,DEM,27565,FALSE
+Texas,Ellis County,Jo Jorgensen,LIB,954,FALSE
+Texas,Ellis County,Howie Hawkins,GRN,220,FALSE
+Texas,Ellis County,Write-ins,WRI,37,FALSE
+Texas,El Paso County,Joe Biden,DEM,178126,TRUE
+Texas,El Paso County,Donald Trump,REP,84331,FALSE
+Texas,El Paso County,Jo Jorgensen,LIB,2746,FALSE
+Texas,El Paso County,Howie Hawkins,GRN,1445,FALSE
+Texas,El Paso County,Write-ins,WRI,567,FALSE
+Texas,Erath County,Donald Trump,REP,13684,TRUE
+Texas,Erath County,Joe Biden,DEM,2916,FALSE
+Texas,Erath County,Jo Jorgensen,LIB,218,FALSE
+Texas,Erath County,Howie Hawkins,GRN,35,FALSE
+Texas,Falls County,Donald Trump,REP,4177,TRUE
+Texas,Falls County,Joe Biden,DEM,1899,FALSE
+Texas,Falls County,Jo Jorgensen,LIB,44,FALSE
+Texas,Falls County,Howie Hawkins,GRN,13,FALSE
+Texas,Fannin County,Donald Trump,REP,12171,TRUE
+Texas,Fannin County,Joe Biden,DEM,2655,FALSE
+Texas,Fannin County,Jo Jorgensen,LIB,155,FALSE
+Texas,Fannin County,Howie Hawkins,GRN,23,FALSE
+Texas,Fayette County,Donald Trump,REP,10171,TRUE
+Texas,Fayette County,Joe Biden,DEM,2661,FALSE
+Texas,Fayette County,Jo Jorgensen,LIB,83,FALSE
+Texas,Fayette County,Howie Hawkins,GRN,26,FALSE
+Texas,Fisher County,Donald Trump,REP,1448,TRUE
+Texas,Fisher County,Joe Biden,DEM,352,FALSE
+Texas,Fisher County,Jo Jorgensen,LIB,21,FALSE
+Texas,Fisher County,Howie Hawkins,GRN,5,FALSE
+Texas,Floyd County,Donald Trump,REP,1584,TRUE
+Texas,Floyd County,Joe Biden,DEM,438,FALSE
+Texas,Floyd County,Jo Jorgensen,LIB,15,FALSE
+Texas,Floyd County,Howie Hawkins,GRN,2,FALSE
+Texas,Foard County,Donald Trump,REP,445,TRUE
+Texas,Foard County,Joe Biden,DEM,99,FALSE
+Texas,Foard County,Jo Jorgensen,LIB,6,FALSE
+Texas,Foard County,Howie Hawkins,GRN,1,FALSE
+Texas,Fort Bend County,Joe Biden,DEM,195552,TRUE
+Texas,Fort Bend County,Donald Trump,REP,157718,FALSE
+Texas,Fort Bend County,Jo Jorgensen,LIB,3028,FALSE
+Texas,Fort Bend County,Howie Hawkins,GRN,1091,FALSE
+Texas,Fort Bend County,Write-ins,WRI,125,FALSE
+Texas,Franklin County,Donald Trump,REP,4161,TRUE
+Texas,Franklin County,Joe Biden,DEM,804,FALSE
+Texas,Franklin County,Jo Jorgensen,LIB,36,FALSE
+Texas,Franklin County,Howie Hawkins,GRN,8,FALSE
+Texas,Freestone County,Donald Trump,REP,6991,TRUE
+Texas,Freestone County,Joe Biden,DEM,1635,FALSE
+Texas,Freestone County,Jo Jorgensen,LIB,67,FALSE
+Texas,Freestone County,Howie Hawkins,GRN,18,FALSE
+Texas,Frio County,Donald Trump,REP,2823,TRUE
+Texas,Frio County,Joe Biden,DEM,2422,FALSE
+Texas,Frio County,Jo Jorgensen,LIB,23,FALSE
+Texas,Frio County,Howie Hawkins,GRN,11,FALSE
+Texas,Gaines County,Donald Trump,REP,5355,TRUE
+Texas,Gaines County,Joe Biden,DEM,576,FALSE
+Texas,Gaines County,Jo Jorgensen,LIB,54,FALSE
+Texas,Gaines County,Howie Hawkins,GRN,10,FALSE
+Texas,Galveston County,Donald Trump,REP,93911,TRUE
+Texas,Galveston County,Joe Biden,DEM,58842,FALSE
+Texas,Galveston County,Jo Jorgensen,LIB,1913,FALSE
+Texas,Galveston County,Howie Hawkins,GRN,393,FALSE
+Texas,Galveston County,Write-ins,WRI,1,FALSE
+Texas,Garza County,Donald Trump,REP,1413,TRUE
+Texas,Garza County,Joe Biden,DEM,231,FALSE
+Texas,Garza County,Jo Jorgensen,LIB,5,FALSE
+Texas,Garza County,Howie Hawkins,GRN,4,FALSE
+Texas,Gillespie County,Donald Trump,REP,12514,TRUE
+Texas,Gillespie County,Joe Biden,DEM,3176,FALSE
+Texas,Gillespie County,Jo Jorgensen,LIB,140,FALSE
+Texas,Gillespie County,Howie Hawkins,GRN,16,FALSE
+Texas,Glasscock County,Donald Trump,REP,611,TRUE
+Texas,Glasscock County,Joe Biden,DEM,39,FALSE
+Texas,Glasscock County,Jo Jorgensen,LIB,3,FALSE
+Texas,Glasscock County,Howie Hawkins,GRN,0,FALSE
+Texas,Goliad County,Donald Trump,REP,3085,TRUE
+Texas,Goliad County,Joe Biden,DEM,877,FALSE
+Texas,Goliad County,Jo Jorgensen,LIB,24,FALSE
+Texas,Goliad County,Howie Hawkins,GRN,2,FALSE
+Texas,Gonzales County,Donald Trump,REP,5627,TRUE
+Texas,Gonzales County,Joe Biden,DEM,1948,FALSE
+Texas,Gonzales County,Jo Jorgensen,LIB,57,FALSE
+Texas,Gonzales County,Howie Hawkins,GRN,15,FALSE
+Texas,Gray County,Donald Trump,REP,6840,TRUE
+Texas,Gray County,Joe Biden,DEM,829,FALSE
+Texas,Gray County,Jo Jorgensen,LIB,97,FALSE
+Texas,Gray County,Howie Hawkins,GRN,16,FALSE
+Texas,Grayson County,Donald Trump,REP,44163,TRUE
+Texas,Grayson County,Joe Biden,DEM,14506,FALSE
+Texas,Grayson County,Jo Jorgensen,LIB,634,FALSE
+Texas,Grayson County,Howie Hawkins,GRN,136,FALSE
+Texas,Gregg County,Donald Trump,REP,32493,TRUE
+Texas,Gregg County,Joe Biden,DEM,14796,FALSE
+Texas,Gregg County,Jo Jorgensen,LIB,551,FALSE
+Texas,Gregg County,Howie Hawkins,GRN,113,FALSE
+Texas,Gregg County,Write-ins,WRI,29,FALSE
+Texas,Grimes County,Donald Trump,REP,9432,TRUE
+Texas,Grimes County,Joe Biden,DEM,2833,FALSE
+Texas,Grimes County,Jo Jorgensen,LIB,118,FALSE
+Texas,Grimes County,Howie Hawkins,GRN,30,FALSE
+Texas,Guadalupe County,Donald Trump,REP,47553,TRUE
+Texas,Guadalupe County,Joe Biden,DEM,28805,FALSE
+Texas,Guadalupe County,Jo Jorgensen,LIB,1023,FALSE
+Texas,Guadalupe County,Howie Hawkins,GRN,211,FALSE
+Texas,Hale County,Donald Trump,REP,7177,TRUE
+Texas,Hale County,Joe Biden,DEM,2279,FALSE
+Texas,Hale County,Jo Jorgensen,LIB,97,FALSE
+Texas,Hale County,Howie Hawkins,GRN,31,FALSE
+Texas,Hall County,Donald Trump,REP,995,TRUE
+Texas,Hall County,Joe Biden,DEM,168,FALSE
+Texas,Hall County,Jo Jorgensen,LIB,4,FALSE
+Texas,Hall County,Howie Hawkins,GRN,1,FALSE
+Texas,Hamilton County,Donald Trump,REP,3616,TRUE
+Texas,Hamilton County,Joe Biden,DEM,641,FALSE
+Texas,Hamilton County,Jo Jorgensen,LIB,52,FALSE
+Texas,Hamilton County,Howie Hawkins,GRN,40,FALSE
+Texas,Hansford County,Donald Trump,REP,1849,TRUE
+Texas,Hansford County,Joe Biden,DEM,166,FALSE
+Texas,Hansford County,Jo Jorgensen,LIB,27,FALSE
+Texas,Hansford County,Howie Hawkins,GRN,3,FALSE
+Texas,Hansford County,Write-ins,WRI,2,FALSE
+Texas,Hardeman County,Donald Trump,REP,1330,TRUE
+Texas,Hardeman County,Joe Biden,DEM,241,FALSE
+Texas,Hardeman County,Jo Jorgensen,LIB,9,FALSE
+Texas,Hardeman County,Howie Hawkins,GRN,0,FALSE
+Texas,Hardin County,Donald Trump,REP,23858,TRUE
+Texas,Hardin County,Joe Biden,DEM,3474,FALSE
+Texas,Hardin County,Jo Jorgensen,LIB,276,FALSE
+Texas,Hardin County,Howie Hawkins,GRN,27,FALSE
+Texas,Harris County,Joe Biden,DEM,918193,TRUE
+Texas,Harris County,Donald Trump,REP,700630,FALSE
+Texas,Harris County,Jo Jorgensen,LIB,16819,FALSE
+Texas,Harris County,Howie Hawkins,GRN,5129,FALSE
+Texas,Harris County,Write-ins,WRI,47,FALSE
+Texas,Harrison County,Donald Trump,REP,21466,TRUE
+Texas,Harrison County,Joe Biden,DEM,7908,FALSE
+Texas,Harrison County,Jo Jorgensen,LIB,294,FALSE
+Texas,Harrison County,Howie Hawkins,GRN,42,FALSE
+Texas,Hartley County,Donald Trump,REP,1868,TRUE
+Texas,Hartley County,Joe Biden,DEM,195,FALSE
+Texas,Hartley County,Jo Jorgensen,LIB,14,FALSE
+Texas,Hartley County,Howie Hawkins,GRN,1,FALSE
+Texas,Haskell County,Donald Trump,REP,1840,TRUE
+Texas,Haskell County,Joe Biden,DEM,353,FALSE
+Texas,Haskell County,Jo Jorgensen,LIB,15,FALSE
+Texas,Haskell County,Howie Hawkins,GRN,6,FALSE
+Texas,Hays County,Joe Biden,DEM,59524,TRUE
+Texas,Hays County,Donald Trump,REP,47680,FALSE
+Texas,Hays County,Jo Jorgensen,LIB,1735,FALSE
+Texas,Hays County,Howie Hawkins,GRN,418,FALSE
+Texas,Hemphill County,Donald Trump,REP,1486,TRUE
+Texas,Hemphill County,Joe Biden,DEM,206,FALSE
+Texas,Hemphill County,Jo Jorgensen,LIB,25,FALSE
+Texas,Hemphill County,Howie Hawkins,GRN,3,FALSE
+Texas,Hemphill County,Write-ins,WRI,0,FALSE
+Texas,Henderson County,Donald Trump,REP,28911,TRUE
+Texas,Henderson County,Joe Biden,DEM,7060,FALSE
+Texas,Henderson County,Jo Jorgensen,LIB,264,FALSE
+Texas,Henderson County,Howie Hawkins,GRN,75,FALSE
+Texas,Hidalgo County,Joe Biden,DEM,128199,TRUE
+Texas,Hidalgo County,Donald Trump,REP,90527,FALSE
+Texas,Hidalgo County,Jo Jorgensen,LIB,1261,FALSE
+Texas,Hidalgo County,Howie Hawkins,GRN,865,FALSE
+Texas,Hidalgo County,Write-ins,WRI,32,FALSE
+Texas,Hill County,Donald Trump,REP,11926,TRUE
+Texas,Hill County,Joe Biden,DEM,2860,FALSE
+Texas,Hill County,Jo Jorgensen,LIB,119,FALSE
+Texas,Hill County,Howie Hawkins,GRN,26,FALSE
+Texas,Hockley County,Donald Trump,REP,6536,TRUE
+Texas,Hockley County,Joe Biden,DEM,1482,FALSE
+Texas,Hockley County,Jo Jorgensen,LIB,61,FALSE
+Texas,Hockley County,Howie Hawkins,GRN,16,FALSE
+Texas,Hood County,Donald Trump,REP,26496,TRUE
+Texas,Hood County,Joe Biden,DEM,5648,FALSE
+Texas,Hood County,Jo Jorgensen,LIB,319,FALSE
+Texas,Hood County,Howie Hawkins,GRN,71,FALSE
+Texas,Hood County,Write-ins,WRI,7,FALSE
+Texas,Hopkins County,Donald Trump,REP,12719,TRUE
+Texas,Hopkins County,Joe Biden,DEM,3046,FALSE
+Texas,Hopkins County,Jo Jorgensen,LIB,143,FALSE
+Texas,Hopkins County,Howie Hawkins,GRN,31,FALSE
+Texas,Houston County,Donald Trump,REP,7060,TRUE
+Texas,Houston County,Joe Biden,DEM,2314,FALSE
+Texas,Houston County,Jo Jorgensen,LIB,56,FALSE
+Texas,Houston County,Howie Hawkins,GRN,7,FALSE
+Texas,Howard County,Donald Trump,REP,8054,TRUE
+Texas,Howard County,Joe Biden,DEM,2069,FALSE
+Texas,Howard County,Jo Jorgensen,LIB,89,FALSE
+Texas,Howard County,Howie Hawkins,GRN,28,FALSE
+Texas,Hudspeth County,Donald Trump,REP,779,TRUE
+Texas,Hudspeth County,Joe Biden,DEM,371,FALSE
+Texas,Hudspeth County,Jo Jorgensen,LIB,10,FALSE
+Texas,Hudspeth County,Howie Hawkins,GRN,5,FALSE
+Texas,Hunt County,Donald Trump,REP,29163,TRUE
+Texas,Hunt County,Joe Biden,DEM,8906,FALSE
+Texas,Hunt County,Jo Jorgensen,LIB,434,FALSE
+Texas,Hunt County,Howie Hawkins,GRN,71,FALSE
+Texas,Hutchinson County,Donald Trump,REP,7681,TRUE
+Texas,Hutchinson County,Joe Biden,DEM,965,FALSE
+Texas,Hutchinson County,Jo Jorgensen,LIB,115,FALSE
+Texas,Hutchinson County,Howie Hawkins,GRN,10,FALSE
+Texas,Irion County,Donald Trump,REP,759,TRUE
+Texas,Irion County,Joe Biden,DEM,120,FALSE
+Texas,Irion County,Jo Jorgensen,LIB,8,FALSE
+Texas,Irion County,Howie Hawkins,GRN,2,FALSE
+Texas,Jack County,Donald Trump,REP,3418,TRUE
+Texas,Jack County,Joe Biden,DEM,331,FALSE
+Texas,Jack County,Jo Jorgensen,LIB,24,FALSE
+Texas,Jack County,Howie Hawkins,GRN,9,FALSE
+Texas,Jackson County,Donald Trump,REP,5231,TRUE
+Texas,Jackson County,Joe Biden,DEM,1033,FALSE
+Texas,Jackson County,Jo Jorgensen,LIB,53,FALSE
+Texas,Jackson County,Howie Hawkins,GRN,23,FALSE
+Texas,Jasper County,Donald Trump,REP,12542,TRUE
+Texas,Jasper County,Joe Biden,DEM,2954,FALSE
+Texas,Jasper County,Jo Jorgensen,LIB,105,FALSE
+Texas,Jasper County,Howie Hawkins,GRN,7,FALSE
+Texas,Jeff Davis County,Donald Trump,REP,784,TRUE
+Texas,Jeff Davis County,Joe Biden,DEM,501,FALSE
+Texas,Jeff Davis County,Jo Jorgensen,LIB,17,FALSE
+Texas,Jeff Davis County,Howie Hawkins,GRN,3,FALSE
+Texas,Jefferson County,Donald Trump,REP,47570,TRUE
+Texas,Jefferson County,Joe Biden,DEM,46073,FALSE
+Texas,Jefferson County,Jo Jorgensen,LIB,897,FALSE
+Texas,Jefferson County,Howie Hawkins,GRN,199,FALSE
+Texas,Jim Hogg County,Joe Biden,DEM,1197,TRUE
+Texas,Jim Hogg County,Donald Trump,REP,833,FALSE
+Texas,Jim Hogg County,Jo Jorgensen,LIB,4,FALSE
+Texas,Jim Hogg County,Howie Hawkins,GRN,2,FALSE
+Texas,Jim Wells County,Donald Trump,REP,7453,TRUE
+Texas,Jim Wells County,Joe Biden,DEM,6119,FALSE
+Texas,Jim Wells County,Jo Jorgensen,LIB,69,FALSE
+Texas,Jim Wells County,Howie Hawkins,GRN,28,FALSE
+Texas,Johnson County,Donald Trump,REP,54628,TRUE
+Texas,Johnson County,Joe Biden,DEM,16464,FALSE
+Texas,Johnson County,Jo Jorgensen,LIB,771,FALSE
+Texas,Johnson County,Howie Hawkins,GRN,142,FALSE
+Texas,Jones County,Donald Trump,REP,5660,TRUE
+Texas,Jones County,Joe Biden,DEM,999,FALSE
+Texas,Jones County,Jo Jorgensen,LIB,63,FALSE
+Texas,Jones County,Howie Hawkins,GRN,19,FALSE
+Texas,Karnes County,Donald Trump,REP,3968,TRUE
+Texas,Karnes County,Joe Biden,DEM,1234,FALSE
+Texas,Karnes County,Jo Jorgensen,LIB,30,FALSE
+Texas,Karnes County,Howie Hawkins,GRN,17,FALSE
+Texas,Kaufman County,Donald Trump,REP,37624,TRUE
+Texas,Kaufman County,Joe Biden,DEM,18405,FALSE
+Texas,Kaufman County,Jo Jorgensen,LIB,528,FALSE
+Texas,Kaufman County,Howie Hawkins,GRN,146,FALSE
+Texas,Kendall County,Donald Trump,REP,20083,TRUE
+Texas,Kendall County,Joe Biden,DEM,6020,FALSE
+Texas,Kendall County,Jo Jorgensen,LIB,289,FALSE
+Texas,Kendall County,Howie Hawkins,GRN,46,FALSE
+Texas,Kenedy County,Donald Trump,REP,127,TRUE
+Texas,Kenedy County,Joe Biden,DEM,65,FALSE
+Texas,Kenedy County,Howie Hawkins,GRN,1,FALSE
+Texas,Kenedy County,Jo Jorgensen,LIB,1,FALSE
+Texas,Kent County,Donald Trump,REP,411,TRUE
+Texas,Kent County,Joe Biden,DEM,47,FALSE
+Texas,Kent County,Howie Hawkins,GRN,3,FALSE
+Texas,Kent County,Jo Jorgensen,LIB,1,FALSE
+Texas,Kerr County,Donald Trump,REP,20879,TRUE
+Texas,Kerr County,Joe Biden,DEM,6524,FALSE
+Texas,Kerr County,Jo Jorgensen,LIB,283,FALSE
+Texas,Kerr County,Howie Hawkins,GRN,51,FALSE
+Texas,Kerr County,Write-ins,WRI,8,FALSE
+Texas,Kimble County,Donald Trump,REP,1987,TRUE
+Texas,Kimble County,Joe Biden,DEM,284,FALSE
+Texas,Kimble County,Jo Jorgensen,LIB,17,FALSE
+Texas,Kimble County,Howie Hawkins,GRN,4,FALSE
+Texas,King County,Donald Trump,REP,151,TRUE
+Texas,King County,Joe Biden,DEM,8,FALSE
+Texas,King County,Howie Hawkins,GRN,0,FALSE
+Texas,King County,Jo Jorgensen,LIB,0,FALSE
+Texas,King County,Write-ins,WRI,0,FALSE
+Texas,Kinney County,Donald Trump,REP,1144,TRUE
+Texas,Kinney County,Joe Biden,DEM,446,FALSE
+Texas,Kinney County,Jo Jorgensen,LIB,11,FALSE
+Texas,Kinney County,Howie Hawkins,GRN,2,FALSE
+Texas,Kleberg County,Donald Trump,REP,5504,TRUE
+Texas,Kleberg County,Joe Biden,DEM,5314,FALSE
+Texas,Kleberg County,Jo Jorgensen,LIB,97,FALSE
+Texas,Kleberg County,Howie Hawkins,GRN,29,FALSE
+Texas,Kleberg County,Write-ins,WRI,0,FALSE
+Texas,Knox County,Donald Trump,REP,1180,TRUE
+Texas,Knox County,Joe Biden,DEM,265,FALSE
+Texas,Knox County,Jo Jorgensen,LIB,7,FALSE
+Texas,Knox County,Howie Hawkins,GRN,4,FALSE
+Texas,Lamar County,Donald Trump,REP,16760,TRUE
+Texas,Lamar County,Joe Biden,DEM,4458,FALSE
+Texas,Lamar County,Jo Jorgensen,LIB,172,FALSE
+Texas,Lamar County,Howie Hawkins,GRN,28,FALSE
+Texas,Lamb County,Donald Trump,REP,3521,TRUE
+Texas,Lamb County,Joe Biden,DEM,840,FALSE
+Texas,Lamb County,Jo Jorgensen,LIB,40,FALSE
+Texas,Lamb County,Howie Hawkins,GRN,7,FALSE
+Texas,Lampasas County,Donald Trump,REP,8086,TRUE
+Texas,Lampasas County,Joe Biden,DEM,2144,FALSE
+Texas,Lampasas County,Jo Jorgensen,LIB,145,FALSE
+Texas,Lampasas County,Howie Hawkins,GRN,24,FALSE
+Texas,La Salle County,Donald Trump,REP,1335,TRUE
+Texas,La Salle County,Joe Biden,DEM,1052,FALSE
+Texas,La Salle County,Jo Jorgensen,LIB,12,FALSE
+Texas,La Salle County,Howie Hawkins,GRN,7,FALSE
+Texas,Lavaca County,Donald Trump,REP,8804,TRUE
+Texas,Lavaca County,Joe Biden,DEM,1333,FALSE
+Texas,Lavaca County,Jo Jorgensen,LIB,46,FALSE
+Texas,Lavaca County,Howie Hawkins,GRN,8,FALSE
+Texas,Lavaca County,Write-ins,WRI,6,FALSE
+Texas,Lee County,Donald Trump,REP,6255,TRUE
+Texas,Lee County,Joe Biden,DEM,1750,FALSE
+Texas,Lee County,Jo Jorgensen,LIB,65,FALSE
+Texas,Lee County,Howie Hawkins,GRN,16,FALSE
+Texas,Leon County,Donald Trump,REP,7523,TRUE
+Texas,Leon County,Joe Biden,DEM,1072,FALSE
+Texas,Leon County,Jo Jorgensen,LIB,57,FALSE
+Texas,Leon County,Howie Hawkins,GRN,14,FALSE
+Texas,Leon County,Write-ins,WRI,8,FALSE
+Texas,Liberty County,Donald Trump,REP,23302,TRUE
+Texas,Liberty County,Joe Biden,DEM,5785,FALSE
+Texas,Liberty County,Jo Jorgensen,LIB,218,FALSE
+Texas,Liberty County,Howie Hawkins,GRN,29,FALSE
+Texas,Limestone County,Donald Trump,REP,6789,TRUE
+Texas,Limestone County,Joe Biden,DEM,2213,FALSE
+Texas,Limestone County,Jo Jorgensen,LIB,66,FALSE
+Texas,Limestone County,Howie Hawkins,GRN,27,FALSE
+Texas,Lipscomb County,Donald Trump,REP,1205,TRUE
+Texas,Lipscomb County,Joe Biden,DEM,131,FALSE
+Texas,Lipscomb County,Jo Jorgensen,LIB,17,FALSE
+Texas,Lipscomb County,Howie Hawkins,GRN,0,FALSE
+Texas,Live Oak County,Donald Trump,REP,4199,TRUE
+Texas,Live Oak County,Joe Biden,DEM,819,FALSE
+Texas,Live Oak County,Jo Jorgensen,LIB,30,FALSE
+Texas,Live Oak County,Howie Hawkins,GRN,6,FALSE
+Texas,Llano County,Donald Trump,REP,10079,TRUE
+Texas,Llano County,Joe Biden,DEM,2465,FALSE
+Texas,Llano County,Jo Jorgensen,LIB,99,FALSE
+Texas,Llano County,Howie Hawkins,GRN,16,FALSE
+Texas,Llano County,Write-ins,WRI,1,FALSE
+Texas,Loving County,Donald Trump,REP,60,TRUE
+Texas,Loving County,Joe Biden,DEM,4,FALSE
+Texas,Loving County,Jo Jorgensen,LIB,2,FALSE
+Texas,Loving County,Howie Hawkins,GRN,0,FALSE
+Texas,Lubbock County,Donald Trump,REP,78861,TRUE
+Texas,Lubbock County,Joe Biden,DEM,40017,FALSE
+Texas,Lubbock County,Jo Jorgensen,LIB,1617,FALSE
+Texas,Lubbock County,Howie Hawkins,GRN,276,FALSE
+Texas,Lynn County,Donald Trump,REP,1853,TRUE
+Texas,Lynn County,Joe Biden,DEM,428,FALSE
+Texas,Lynn County,Jo Jorgensen,LIB,10,FALSE
+Texas,Lynn County,Howie Hawkins,GRN,2,FALSE
+Texas,Lynn County,Write-ins,WRI,0,FALSE
+Texas,McCulloch County,Donald Trump,REP,2904,TRUE
+Texas,McCulloch County,Joe Biden,DEM,490,FALSE
+Texas,McCulloch County,Jo Jorgensen,LIB,36,FALSE
+Texas,McCulloch County,Howie Hawkins,GRN,6,FALSE
+Texas,McLennan County,Donald Trump,REP,59543,TRUE
+Texas,McLennan County,Joe Biden,DEM,36688,FALSE
+Texas,McLennan County,Jo Jorgensen,LIB,1297,FALSE
+Texas,McLennan County,Howie Hawkins,GRN,243,FALSE
+Texas,McMullen County,Donald Trump,REP,460,TRUE
+Texas,McMullen County,Joe Biden,DEM,53,FALSE
+Texas,McMullen County,Jo Jorgensen,LIB,2,FALSE
+Texas,McMullen County,Howie Hawkins,GRN,1,FALSE
+Texas,Madison County,Donald Trump,REP,4169,TRUE
+Texas,Madison County,Joe Biden,DEM,1088,FALSE
+Texas,Madison County,Jo Jorgensen,LIB,30,FALSE
+Texas,Madison County,Howie Hawkins,GRN,10,FALSE
+Texas,Marion County,Donald Trump,REP,3470,TRUE
+Texas,Marion County,Joe Biden,DEM,1339,FALSE
+Texas,Marion County,Jo Jorgensen,LIB,47,FALSE
+Texas,Marion County,Howie Hawkins,GRN,8,FALSE
+Texas,Martin County,Donald Trump,REP,1857,TRUE
+Texas,Martin County,Joe Biden,DEM,288,FALSE
+Texas,Martin County,Jo Jorgensen,LIB,13,FALSE
+Texas,Martin County,Howie Hawkins,GRN,2,FALSE
+Texas,Mason County,Donald Trump,REP,1991,TRUE
+Texas,Mason County,Joe Biden,DEM,457,FALSE
+Texas,Mason County,Jo Jorgensen,LIB,19,FALSE
+Texas,Mason County,Write-ins,WRI,5,FALSE
+Texas,Mason County,Howie Hawkins,GRN,2,FALSE
+Texas,Matagorda County,Donald Trump,REP,9845,TRUE
+Texas,Matagorda County,Joe Biden,DEM,3733,FALSE
+Texas,Matagorda County,Jo Jorgensen,LIB,115,FALSE
+Texas,Matagorda County,Howie Hawkins,GRN,33,FALSE
+Texas,Maverick County,Joe Biden,DEM,8332,TRUE
+Texas,Maverick County,Donald Trump,REP,6881,FALSE
+Texas,Maverick County,Jo Jorgensen,LIB,73,FALSE
+Texas,Maverick County,Howie Hawkins,GRN,60,FALSE
+Texas,Medina County,Donald Trump,REP,15642,TRUE
+Texas,Medina County,Joe Biden,DEM,6773,FALSE
+Texas,Medina County,Jo Jorgensen,LIB,184,FALSE
+Texas,Medina County,Howie Hawkins,GRN,45,FALSE
+Texas,Menard County,Donald Trump,REP,823,TRUE
+Texas,Menard County,Joe Biden,DEM,197,FALSE
+Texas,Menard County,Jo Jorgensen,LIB,6,FALSE
+Texas,Menard County,Howie Hawkins,GRN,2,FALSE
+Texas,Midland County,Donald Trump,REP,45624,TRUE
+Texas,Midland County,Joe Biden,DEM,12329,FALSE
+Texas,Midland County,Jo Jorgensen,LIB,777,FALSE
+Texas,Midland County,Howie Hawkins,GRN,126,FALSE
+Texas,Milam County,Donald Trump,REP,7984,TRUE
+Texas,Milam County,Joe Biden,DEM,2496,FALSE
+Texas,Milam County,Jo Jorgensen,LIB,72,FALSE
+Texas,Milam County,Howie Hawkins,GRN,24,FALSE
+Texas,Mills County,Donald Trump,REP,2217,TRUE
+Texas,Mills County,Joe Biden,DEM,271,FALSE
+Texas,Mills County,Jo Jorgensen,LIB,15,FALSE
+Texas,Mills County,Howie Hawkins,GRN,2,FALSE
+Texas,Mitchell County,Donald Trump,REP,2170,TRUE
+Texas,Mitchell County,Joe Biden,DEM,397,FALSE
+Texas,Mitchell County,Jo Jorgensen,LIB,11,FALSE
+Texas,Mitchell County,Howie Hawkins,GRN,1,FALSE
+Texas,Montague County,Donald Trump,REP,8615,TRUE
+Texas,Montague County,Joe Biden,DEM,1097,FALSE
+Texas,Montague County,Jo Jorgensen,LIB,78,FALSE
+Texas,Montague County,Howie Hawkins,GRN,24,FALSE
+Texas,Montgomery County,Donald Trump,REP,193382,TRUE
+Texas,Montgomery County,Joe Biden,DEM,74377,FALSE
+Texas,Montgomery County,Jo Jorgensen,LIB,3166,FALSE
+Texas,Montgomery County,Howie Hawkins,GRN,526,FALSE
+Texas,Moore County,Donald Trump,REP,4359,TRUE
+Texas,Moore County,Joe Biden,DEM,1062,FALSE
+Texas,Moore County,Jo Jorgensen,LIB,66,FALSE
+Texas,Moore County,Howie Hawkins,GRN,21,FALSE
+Texas,Morris County,Donald Trump,REP,3872,TRUE
+Texas,Morris County,Joe Biden,DEM,1669,FALSE
+Texas,Morris County,Jo Jorgensen,LIB,36,FALSE
+Texas,Morris County,Howie Hawkins,GRN,10,FALSE
+Texas,Motley County,Donald Trump,REP,604,TRUE
+Texas,Motley County,Joe Biden,DEM,46,FALSE
+Texas,Motley County,Jo Jorgensen,LIB,2,FALSE
+Texas,Motley County,Howie Hawkins,GRN,0,FALSE
+Texas,Nacogdoches County,Donald Trump,REP,17378,TRUE
+Texas,Nacogdoches County,Joe Biden,DEM,9000,FALSE
+Texas,Nacogdoches County,Jo Jorgensen,LIB,302,FALSE
+Texas,Nacogdoches County,Howie Hawkins,GRN,83,FALSE
+Texas,Navarro County,Donald Trump,REP,13800,TRUE
+Texas,Navarro County,Joe Biden,DEM,5101,FALSE
+Texas,Navarro County,Jo Jorgensen,LIB,167,FALSE
+Texas,Navarro County,Howie Hawkins,GRN,53,FALSE
+Texas,Newton County,Donald Trump,REP,4882,TRUE
+Texas,Newton County,Joe Biden,DEM,1173,FALSE
+Texas,Newton County,Jo Jorgensen,LIB,34,FALSE
+Texas,Newton County,Howie Hawkins,GRN,5,FALSE
+Texas,Newton County,Write-ins,WRI,0,FALSE
+Texas,Nolan County,Donald Trump,REP,4131,TRUE
+Texas,Nolan County,Joe Biden,DEM,1162,FALSE
+Texas,Nolan County,Jo Jorgensen,LIB,53,FALSE
+Texas,Nolan County,Howie Hawkins,GRN,10,FALSE
+Texas,Nueces County,Donald Trump,REP,64617,TRUE
+Texas,Nueces County,Joe Biden,DEM,60925,FALSE
+Texas,Nueces County,Jo Jorgensen,LIB,1404,FALSE
+Texas,Nueces County,Howie Hawkins,GRN,368,FALSE
+Texas,Ochiltree County,Donald Trump,REP,2812,TRUE
+Texas,Ochiltree County,Joe Biden,DEM,302,FALSE
+Texas,Ochiltree County,Jo Jorgensen,LIB,37,FALSE
+Texas,Ochiltree County,Howie Hawkins,GRN,3,FALSE
+Texas,Ochiltree County,Write-ins,WRI,2,FALSE
+Texas,Oldham County,Donald Trump,REP,917,TRUE
+Texas,Oldham County,Joe Biden,DEM,81,FALSE
+Texas,Oldham County,Jo Jorgensen,LIB,10,FALSE
+Texas,Oldham County,Howie Hawkins,GRN,1,FALSE
+Texas,Orange County,Donald Trump,REP,29186,TRUE
+Texas,Orange County,Joe Biden,DEM,6357,FALSE
+Texas,Orange County,Jo Jorgensen,LIB,376,FALSE
+Texas,Orange County,Howie Hawkins,GRN,51,FALSE
+Texas,Orange County,Write-ins,WRI,24,FALSE
+Texas,Palo Pinto County,Donald Trump,REP,10179,TRUE
+Texas,Palo Pinto County,Joe Biden,DEM,2178,FALSE
+Texas,Palo Pinto County,Jo Jorgensen,LIB,101,FALSE
+Texas,Palo Pinto County,Howie Hawkins,GRN,27,FALSE
+Texas,Panola County,Donald Trump,REP,9326,TRUE
+Texas,Panola County,Joe Biden,DEM,2057,FALSE
+Texas,Panola County,Jo Jorgensen,LIB,57,FALSE
+Texas,Panola County,Howie Hawkins,GRN,11,FALSE
+Texas,Panola County,Write-ins,WRI,0,FALSE
+Texas,Parker County,Donald Trump,REP,62045,TRUE
+Texas,Parker County,Joe Biden,DEM,13017,FALSE
+Texas,Parker County,Jo Jorgensen,LIB,880,FALSE
+Texas,Parker County,Howie Hawkins,GRN,158,FALSE
+Texas,Parker County,Write-ins,WRI,28,FALSE
+Texas,Parmer County,Donald Trump,REP,2135,TRUE
+Texas,Parmer County,Joe Biden,DEM,488,FALSE
+Texas,Parmer County,Jo Jorgensen,LIB,23,FALSE
+Texas,Parmer County,Howie Hawkins,GRN,4,FALSE
+Texas,Pecos County,Donald Trump,REP,3215,TRUE
+Texas,Pecos County,Joe Biden,DEM,1382,FALSE
+Texas,Pecos County,Jo Jorgensen,LIB,50,FALSE
+Texas,Pecos County,Howie Hawkins,GRN,21,FALSE
+Texas,Polk County,Donald Trump,REP,18573,TRUE
+Texas,Polk County,Joe Biden,DEM,5387,FALSE
+Texas,Polk County,Jo Jorgensen,LIB,171,FALSE
+Texas,Polk County,Howie Hawkins,GRN,50,FALSE
+Texas,Potter County,Donald Trump,REP,22820,TRUE
+Texas,Potter County,Joe Biden,DEM,9921,FALSE
+Texas,Potter County,Jo Jorgensen,LIB,454,FALSE
+Texas,Potter County,Howie Hawkins,GRN,126,FALSE
+Texas,Presidio County,Joe Biden,DEM,1463,TRUE
+Texas,Presidio County,Donald Trump,REP,721,FALSE
+Texas,Presidio County,Jo Jorgensen,LIB,21,FALSE
+Texas,Presidio County,Howie Hawkins,GRN,12,FALSE
+Texas,Presidio County,Write-ins,WRI,0,FALSE
+Texas,Rains County,Donald Trump,REP,5155,TRUE
+Texas,Rains County,Joe Biden,DEM,842,FALSE
+Texas,Rains County,Jo Jorgensen,LIB,43,FALSE
+Texas,Rains County,Howie Hawkins,GRN,13,FALSE
+Texas,Randall County,Donald Trump,REP,50796,TRUE
+Texas,Randall County,Joe Biden,DEM,12802,FALSE
+Texas,Randall County,Jo Jorgensen,LIB,910,FALSE
+Texas,Randall County,Howie Hawkins,GRN,129,FALSE
+Texas,Randall County,Write-ins,WRI,37,FALSE
+Texas,Reagan County,Donald Trump,REP,942,TRUE
+Texas,Reagan County,Joe Biden,DEM,172,FALSE
+Texas,Reagan County,Jo Jorgensen,LIB,7,FALSE
+Texas,Reagan County,Howie Hawkins,GRN,3,FALSE
+Texas,Real County,Donald Trump,REP,1643,TRUE
+Texas,Real County,Joe Biden,DEM,320,FALSE
+Texas,Real County,Jo Jorgensen,LIB,14,FALSE
+Texas,Real County,Howie Hawkins,GRN,5,FALSE
+Texas,Red River County,Donald Trump,REP,4517,TRUE
+Texas,Red River County,Joe Biden,DEM,1246,FALSE
+Texas,Red River County,Jo Jorgensen,LIB,36,FALSE
+Texas,Red River County,Howie Hawkins,GRN,7,FALSE
+Texas,Reeves County,Donald Trump,REP,2254,TRUE
+Texas,Reeves County,Joe Biden,DEM,1395,FALSE
+Texas,Reeves County,Jo Jorgensen,LIB,30,FALSE
+Texas,Reeves County,Howie Hawkins,GRN,8,FALSE
+Texas,Refugio County,Donald Trump,REP,2210,TRUE
+Texas,Refugio County,Joe Biden,DEM,1108,FALSE
+Texas,Refugio County,Jo Jorgensen,LIB,26,FALSE
+Texas,Refugio County,Howie Hawkins,GRN,21,FALSE
+Texas,Refugio County,Write-ins,WRI,1,FALSE
+Texas,Roberts County,Donald Trump,REP,529,TRUE
+Texas,Roberts County,Joe Biden,DEM,17,FALSE
+Texas,Roberts County,Jo Jorgensen,LIB,4,FALSE
+Texas,Roberts County,Howie Hawkins,GRN,0,FALSE
+Texas,Robertson County,Donald Trump,REP,5646,TRUE
+Texas,Robertson County,Joe Biden,DEM,2374,FALSE
+Texas,Robertson County,Jo Jorgensen,LIB,66,FALSE
+Texas,Robertson County,Howie Hawkins,GRN,13,FALSE
+Texas,Rockwall County,Donald Trump,REP,36726,TRUE
+Texas,Rockwall County,Joe Biden,DEM,16412,FALSE
+Texas,Rockwall County,Jo Jorgensen,LIB,611,FALSE
+Texas,Rockwall County,Howie Hawkins,GRN,121,FALSE
+Texas,Rockwall County,Write-ins,WRI,21,FALSE
+Texas,Runnels County,Donald Trump,REP,3807,TRUE
+Texas,Runnels County,Joe Biden,DEM,552,FALSE
+Texas,Runnels County,Jo Jorgensen,LIB,39,FALSE
+Texas,Runnels County,Howie Hawkins,GRN,11,FALSE
+Texas,Rusk County,Donald Trump,REP,16534,TRUE
+Texas,Rusk County,Joe Biden,DEM,4629,FALSE
+Texas,Rusk County,Jo Jorgensen,LIB,155,FALSE
+Texas,Rusk County,Howie Hawkins,GRN,50,FALSE
+Texas,Sabine County,Donald Trump,REP,4784,TRUE
+Texas,Sabine County,Joe Biden,DEM,669,FALSE
+Texas,Sabine County,Jo Jorgensen,LIB,27,FALSE
+Texas,Sabine County,Howie Hawkins,GRN,7,FALSE
+Texas,San Augustine County,Donald Trump,REP,3007,TRUE
+Texas,San Augustine County,Joe Biden,DEM,980,FALSE
+Texas,San Augustine County,Jo Jorgensen,LIB,13,FALSE
+Texas,San Augustine County,Howie Hawkins,GRN,2,FALSE
+Texas,San Jacinto County,Donald Trump,REP,10161,TRUE
+Texas,San Jacinto County,Joe Biden,DEM,2337,FALSE
+Texas,San Jacinto County,Jo Jorgensen,LIB,101,FALSE
+Texas,San Jacinto County,Howie Hawkins,GRN,39,FALSE
+Texas,San Patricio County,Donald Trump,REP,16516,TRUE
+Texas,San Patricio County,Joe Biden,DEM,8988,FALSE
+Texas,San Patricio County,Jo Jorgensen,LIB,291,FALSE
+Texas,San Patricio County,Howie Hawkins,GRN,93,FALSE
+Texas,San Saba County,Donald Trump,REP,2308,TRUE
+Texas,San Saba County,Joe Biden,DEM,287,FALSE
+Texas,San Saba County,Jo Jorgensen,LIB,7,FALSE
+Texas,San Saba County,Howie Hawkins,GRN,0,FALSE
+Texas,Schleicher County,Donald Trump,REP,940,TRUE
+Texas,Schleicher County,Joe Biden,DEM,211,FALSE
+Texas,Schleicher County,Jo Jorgensen,LIB,6,FALSE
+Texas,Schleicher County,Howie Hawkins,GRN,2,FALSE
+Texas,Scurry County,Donald Trump,REP,4983,TRUE
+Texas,Scurry County,Joe Biden,DEM,818,FALSE
+Texas,Scurry County,Jo Jorgensen,LIB,53,FALSE
+Texas,Scurry County,Howie Hawkins,GRN,15,FALSE
+Texas,Shackelford County,Donald Trump,REP,1484,TRUE
+Texas,Shackelford County,Joe Biden,DEM,130,FALSE
+Texas,Shackelford County,Jo Jorgensen,LIB,10,FALSE
+Texas,Shackelford County,Howie Hawkins,GRN,4,FALSE
+Texas,Shackelford County,Write-ins,WRI,0,FALSE
+Texas,Shelby County,Donald Trump,REP,7975,TRUE
+Texas,Shelby County,Joe Biden,DEM,2068,FALSE
+Texas,Shelby County,Jo Jorgensen,LIB,37,FALSE
+Texas,Shelby County,Howie Hawkins,GRN,4,FALSE
+Texas,Sherman County,Donald Trump,REP,886,TRUE
+Texas,Sherman County,Joe Biden,DEM,91,FALSE
+Texas,Sherman County,Jo Jorgensen,LIB,9,FALSE
+Texas,Sherman County,Howie Hawkins,GRN,5,FALSE
+Texas,Smith County,Donald Trump,REP,69080,TRUE
+Texas,Smith County,Joe Biden,DEM,29615,FALSE
+Texas,Smith County,Jo Jorgensen,LIB,1126,FALSE
+Texas,Smith County,Howie Hawkins,GRN,254,FALSE
+Texas,Somervell County,Donald Trump,REP,4105,TRUE
+Texas,Somervell County,Joe Biden,DEM,768,FALSE
+Texas,Somervell County,Jo Jorgensen,LIB,56,FALSE
+Texas,Somervell County,Howie Hawkins,GRN,10,FALSE
+Texas,Somervell County,Write-ins,WRI,8,FALSE
+Texas,Starr County,Joe Biden,DEM,9123,TRUE
+Texas,Starr County,Donald Trump,REP,8247,FALSE
+Texas,Starr County,Jo Jorgensen,LIB,92,FALSE
+Texas,Starr County,Howie Hawkins,GRN,63,FALSE
+Texas,Stephens County,Donald Trump,REP,3385,TRUE
+Texas,Stephens County,Joe Biden,DEM,397,FALSE
+Texas,Stephens County,Jo Jorgensen,LIB,16,FALSE
+Texas,Stephens County,Howie Hawkins,GRN,2,FALSE
+Texas,Sterling County,Donald Trump,REP,584,TRUE
+Texas,Sterling County,Joe Biden,DEM,51,FALSE
+Texas,Sterling County,Howie Hawkins,GRN,3,FALSE
+Texas,Sterling County,Jo Jorgensen,LIB,1,FALSE
+Texas,Stonewall County,Donald Trump,REP,615,TRUE
+Texas,Stonewall County,Joe Biden,DEM,116,FALSE
+Texas,Stonewall County,Jo Jorgensen,LIB,4,FALSE
+Texas,Stonewall County,Howie Hawkins,GRN,1,FALSE
+Texas,Sutton County,Donald Trump,REP,1222,TRUE
+Texas,Sutton County,Joe Biden,DEM,322,FALSE
+Texas,Sutton County,Jo Jorgensen,LIB,9,FALSE
+Texas,Sutton County,Howie Hawkins,GRN,4,FALSE
+Texas,Swisher County,Donald Trump,REP,1845,TRUE
+Texas,Swisher County,Joe Biden,DEM,478,FALSE
+Texas,Swisher County,Jo Jorgensen,LIB,22,FALSE
+Texas,Swisher County,Howie Hawkins,GRN,10,FALSE
+Texas,Tarrant County,Joe Biden,DEM,411567,TRUE
+Texas,Tarrant County,Donald Trump,REP,409741,FALSE
+Texas,Tarrant County,Jo Jorgensen,LIB,10368,FALSE
+Texas,Tarrant County,Howie Hawkins,GRN,2617,FALSE
+Texas,Tarrant County,Write-ins,WRI,404,FALSE
+Texas,Taylor County,Donald Trump,REP,39547,TRUE
+Texas,Taylor County,Joe Biden,DEM,14588,FALSE
+Texas,Taylor County,Jo Jorgensen,LIB,827,FALSE
+Texas,Taylor County,Howie Hawkins,GRN,150,FALSE
+Texas,Terrell County,Donald Trump,REP,334,TRUE
+Texas,Terrell County,Joe Biden,DEM,119,FALSE
+Texas,Terrell County,Jo Jorgensen,LIB,3,FALSE
+Texas,Terrell County,Howie Hawkins,GRN,2,FALSE
+Texas,Terry County,Donald Trump,REP,2812,TRUE
+Texas,Terry County,Joe Biden,DEM,757,FALSE
+Texas,Terry County,Jo Jorgensen,LIB,33,FALSE
+Texas,Terry County,Howie Hawkins,GRN,10,FALSE
+Texas,Throckmorton County,Donald Trump,REP,806,TRUE
+Texas,Throckmorton County,Joe Biden,DEM,82,FALSE
+Texas,Throckmorton County,Jo Jorgensen,LIB,5,FALSE
+Texas,Throckmorton County,Write-ins,WRI,5,FALSE
+Texas,Throckmorton County,Howie Hawkins,GRN,1,FALSE
+Texas,Titus County,Donald Trump,REP,7570,TRUE
+Texas,Titus County,Joe Biden,DEM,2856,FALSE
+Texas,Titus County,Jo Jorgensen,LIB,94,FALSE
+Texas,Titus County,Howie Hawkins,GRN,19,FALSE
+Texas,Tom Green County,Donald Trump,REP,32313,TRUE
+Texas,Tom Green County,Joe Biden,DEM,12239,FALSE
+Texas,Tom Green County,Jo Jorgensen,LIB,546,FALSE
+Texas,Tom Green County,Howie Hawkins,GRN,96,FALSE
+Texas,Tom Green County,Write-ins,WRI,16,FALSE
+Texas,Travis County,Joe Biden,DEM,435860,TRUE
+Texas,Travis County,Donald Trump,REP,161337,FALSE
+Texas,Travis County,Jo Jorgensen,LIB,8905,FALSE
+Texas,Travis County,Write-ins,WRI,2153,FALSE
+Texas,Travis County,Howie Hawkins,GRN,2094,FALSE
+Texas,Trinity County,Donald Trump,REP,5579,TRUE
+Texas,Trinity County,Joe Biden,DEM,1323,FALSE
+Texas,Trinity County,Jo Jorgensen,LIB,25,FALSE
+Texas,Trinity County,Howie Hawkins,GRN,11,FALSE
+Texas,Tyler County,Donald Trump,REP,8194,TRUE
+Texas,Tyler County,Joe Biden,DEM,1403,FALSE
+Texas,Tyler County,Jo Jorgensen,LIB,52,FALSE
+Texas,Tyler County,Howie Hawkins,GRN,11,FALSE
+Texas,Upshur County,Donald Trump,REP,15809,TRUE
+Texas,Upshur County,Joe Biden,DEM,2877,FALSE
+Texas,Upshur County,Jo Jorgensen,LIB,179,FALSE
+Texas,Upshur County,Howie Hawkins,GRN,22,FALSE
+Texas,Upton County,Donald Trump,REP,1178,TRUE
+Texas,Upton County,Joe Biden,DEM,170,FALSE
+Texas,Upton County,Jo Jorgensen,LIB,13,FALSE
+Texas,Upton County,Howie Hawkins,GRN,7,FALSE
+Texas,Uvalde County,Donald Trump,REP,6174,TRUE
+Texas,Uvalde County,Joe Biden,DEM,4073,FALSE
+Texas,Uvalde County,Jo Jorgensen,LIB,66,FALSE
+Texas,Uvalde County,Howie Hawkins,GRN,29,FALSE
+Texas,Val Verde County,Donald Trump,REP,8284,TRUE
+Texas,Val Verde County,Joe Biden,DEM,6771,FALSE
+Texas,Val Verde County,Jo Jorgensen,LIB,170,FALSE
+Texas,Val Verde County,Howie Hawkins,GRN,47,FALSE
+Texas,Van Zandt County,Donald Trump,REP,22270,TRUE
+Texas,Van Zandt County,Joe Biden,DEM,3516,FALSE
+Texas,Van Zandt County,Jo Jorgensen,LIB,175,FALSE
+Texas,Van Zandt County,Howie Hawkins,GRN,33,FALSE
+Texas,Victoria County,Donald Trump,REP,23358,TRUE
+Texas,Victoria County,Joe Biden,DEM,10380,FALSE
+Texas,Victoria County,Jo Jorgensen,LIB,339,FALSE
+Texas,Victoria County,Howie Hawkins,GRN,103,FALSE
+Texas,Victoria County,Write-ins,WRI,8,FALSE
+Texas,Walker County,Donald Trump,REP,15375,TRUE
+Texas,Walker County,Joe Biden,DEM,7884,FALSE
+Texas,Walker County,Jo Jorgensen,LIB,287,FALSE
+Texas,Walker County,Howie Hawkins,GRN,63,FALSE
+Texas,Walker County,Write-ins,WRI,3,FALSE
+Texas,Waller County,Donald Trump,REP,14260,TRUE
+Texas,Waller County,Joe Biden,DEM,8191,FALSE
+Texas,Waller County,Jo Jorgensen,LIB,201,FALSE
+Texas,Waller County,Howie Hawkins,GRN,82,FALSE
+Texas,Ward County,Donald Trump,REP,3241,TRUE
+Texas,Ward County,Joe Biden,DEM,764,FALSE
+Texas,Ward County,Jo Jorgensen,LIB,29,FALSE
+Texas,Ward County,Howie Hawkins,GRN,26,FALSE
+Texas,Washington County,Donald Trump,REP,12959,TRUE
+Texas,Washington County,Joe Biden,DEM,4261,FALSE
+Texas,Washington County,Jo Jorgensen,LIB,178,FALSE
+Texas,Washington County,Howie Hawkins,GRN,20,FALSE
+Texas,Webb County,Joe Biden,DEM,41820,TRUE
+Texas,Webb County,Donald Trump,REP,25898,FALSE
+Texas,Webb County,Jo Jorgensen,LIB,446,FALSE
+Texas,Webb County,Howie Hawkins,GRN,233,FALSE
+Texas,Wharton County,Donald Trump,REP,11926,TRUE
+Texas,Wharton County,Joe Biden,DEM,4694,FALSE
+Texas,Wharton County,Jo Jorgensen,LIB,105,FALSE
+Texas,Wharton County,Howie Hawkins,GRN,36,FALSE
+Texas,Wheeler County,Donald Trump,REP,2159,TRUE
+Texas,Wheeler County,Joe Biden,DEM,168,FALSE
+Texas,Wheeler County,Jo Jorgensen,LIB,7,FALSE
+Texas,Wheeler County,Howie Hawkins,GRN,3,FALSE
+Texas,Wichita County,Donald Trump,REP,32069,TRUE
+Texas,Wichita County,Joe Biden,DEM,13161,FALSE
+Texas,Wichita County,Jo Jorgensen,LIB,675,FALSE
+Texas,Wichita County,Howie Hawkins,GRN,125,FALSE
+Texas,Wilbarger County,Donald Trump,REP,3524,TRUE
+Texas,Wilbarger County,Joe Biden,DEM,956,FALSE
+Texas,Wilbarger County,Jo Jorgensen,LIB,33,FALSE
+Texas,Wilbarger County,Howie Hawkins,GRN,11,FALSE
+Texas,Willacy County,Joe Biden,DEM,3108,TRUE
+Texas,Willacy County,Donald Trump,REP,2441,FALSE
+Texas,Willacy County,Howie Hawkins,GRN,0,FALSE
+Texas,Willacy County,Jo Jorgensen,LIB,0,FALSE
+Texas,Willacy County,Write-ins,WRI,0,FALSE
+Texas,Williamson County,Joe Biden,DEM,143795,TRUE
+Texas,Williamson County,Donald Trump,REP,139729,FALSE
+Texas,Williamson County,Jo Jorgensen,LIB,4998,FALSE
+Texas,Williamson County,Howie Hawkins,GRN,790,FALSE
+Texas,Wilson County,Donald Trump,REP,18463,TRUE
+Texas,Wilson County,Joe Biden,DEM,6350,FALSE
+Texas,Wilson County,Jo Jorgensen,LIB,151,FALSE
+Texas,Wilson County,Howie Hawkins,GRN,39,FALSE
+Texas,Wilson County,Write-ins,WRI,10,FALSE
+Texas,Winkler County,Donald Trump,REP,1753,TRUE
+Texas,Winkler County,Joe Biden,DEM,358,FALSE
+Texas,Winkler County,Jo Jorgensen,LIB,14,FALSE
+Texas,Winkler County,Howie Hawkins,GRN,1,FALSE
+Texas,Wise County,Donald Trump,REP,27032,TRUE
+Texas,Wise County,Joe Biden,DEM,4973,FALSE
+Texas,Wise County,Jo Jorgensen,LIB,310,FALSE
+Texas,Wise County,Howie Hawkins,GRN,47,FALSE
+Texas,Wood County,Donald Trump,REP,19049,TRUE
+Texas,Wood County,Joe Biden,DEM,3509,FALSE
+Texas,Wood County,Jo Jorgensen,LIB,175,FALSE
+Texas,Wood County,Howie Hawkins,GRN,40,FALSE
+Texas,Wood County,Write-ins,WRI,6,FALSE
+Texas,Yoakum County,Donald Trump,REP,2174,TRUE
+Texas,Yoakum County,Joe Biden,DEM,420,FALSE
+Texas,Yoakum County,Jo Jorgensen,LIB,31,FALSE
+Texas,Yoakum County,Howie Hawkins,GRN,6,FALSE
+Texas,Yoakum County,Write-ins,WRI,0,FALSE
+Texas,Young County,Donald Trump,REP,7110,TRUE
+Texas,Young County,Joe Biden,DEM,1034,FALSE
+Texas,Young County,Jo Jorgensen,LIB,76,FALSE
+Texas,Young County,Howie Hawkins,GRN,18,FALSE
+Texas,Young County,Write-ins,WRI,1,FALSE
+Texas,Zapata County,Donald Trump,REP,2033,TRUE
+Texas,Zapata County,Joe Biden,DEM,1826,FALSE
+Texas,Zapata County,Jo Jorgensen,LIB,11,FALSE
+Texas,Zapata County,Howie Hawkins,GRN,4,FALSE
+Texas,Zavala County,Joe Biden,DEM,2864,TRUE
+Texas,Zavala County,Donald Trump,REP,1490,FALSE
+Texas,Zavala County,Jo Jorgensen,LIB,13,FALSE
+Texas,Zavala County,Howie Hawkins,GRN,12,FALSE
+California,Fresno County,Joe Biden,DEM,193025,TRUE
+California,Fresno County,Donald Trump,REP,164464,FALSE
+California,Fresno County,Jo Jorgensen,LIB,4031,FALSE
+California,Fresno County,Howie Hawkins,GRN,1474,FALSE
+California,Fresno County,Rocky De La Fuente,ALI,1147,FALSE
+California,Fresno County,Gloria La Riva,PSL,668,FALSE
+California,Glenn County,Donald Trump,REP,7063,TRUE
+California,Glenn County,Joe Biden,DEM,3995,FALSE
+California,Glenn County,Jo Jorgensen,LIB,128,FALSE
+California,Glenn County,Rocky De La Fuente,ALI,39,FALSE
+California,Glenn County,Howie Hawkins,GRN,34,FALSE
+California,Glenn County,Gloria La Riva,PSL,33,FALSE
+California,Humboldt County,Joe Biden,DEM,44768,TRUE
+California,Humboldt County,Donald Trump,REP,21770,FALSE
+California,Humboldt County,Jo Jorgensen,LIB,1132,FALSE
+California,Humboldt County,Howie Hawkins,GRN,625,FALSE
+California,Humboldt County,Gloria La Riva,PSL,282,FALSE
+California,Humboldt County,Rocky De La Fuente,ALI,251,FALSE
+California,Humboldt County,Write-ins,WRI,0,FALSE
+California,Imperial County,Joe Biden,DEM,34678,TRUE
+California,Imperial County,Donald Trump,REP,20847,FALSE
+California,Imperial County,Jo Jorgensen,LIB,390,FALSE
+California,Imperial County,Rocky De La Fuente,ALI,291,FALSE
+California,Imperial County,Gloria La Riva,PSL,278,FALSE
+California,Imperial County,Howie Hawkins,GRN,234,FALSE
+California,Inyo County,Joe Biden,DEM,4634,TRUE
+California,Inyo County,Donald Trump,REP,4620,FALSE
+California,Inyo County,Jo Jorgensen,LIB,128,FALSE
+California,Inyo County,Howie Hawkins,GRN,45,FALSE
+California,Inyo County,Rocky De La Fuente,ALI,32,FALSE
+California,Inyo County,Gloria La Riva,PSL,22,FALSE
+California,Kern County,Donald Trump,REP,164484,TRUE
+California,Kern County,Joe Biden,DEM,133366,FALSE
+California,Kern County,Jo Jorgensen,LIB,3942,FALSE
+California,Kern County,Rocky De La Fuente,ALI,1264,FALSE
+California,Kern County,Gloria La Riva,PSL,1096,FALSE
+California,Kern County,Howie Hawkins,GRN,1074,FALSE
+California,Kings County,Donald Trump,REP,24072,TRUE
+California,Kings County,Joe Biden,DEM,18699,FALSE
+California,Kings County,Jo Jorgensen,LIB,604,FALSE
+California,Kings County,Rocky De La Fuente,ALI,180,FALSE
+California,Kings County,Gloria La Riva,PSL,178,FALSE
+California,Kings County,Howie Hawkins,GRN,125,FALSE
+California,Lake County,Joe Biden,DEM,14941,TRUE
+California,Lake County,Donald Trump,REP,13123,FALSE
+California,Lake County,Jo Jorgensen,LIB,374,FALSE
+California,Lake County,Howie Hawkins,GRN,207,FALSE
+California,Lake County,Rocky De La Fuente,ALI,89,FALSE
+California,Lake County,Gloria La Riva,PSL,66,FALSE
+California,Lake County,Write-ins,WRI,0,FALSE
+California,Lassen County,Donald Trump,REP,8970,TRUE
+California,Lassen County,Joe Biden,DEM,2799,FALSE
+California,Lassen County,Jo Jorgensen,LIB,141,FALSE
+California,Lassen County,Howie Hawkins,GRN,31,FALSE
+California,Lassen County,Rocky De La Fuente,ALI,26,FALSE
+California,Lassen County,Gloria La Riva,PSL,18,FALSE
+California,Lassen County,Write-ins,WRI,0,FALSE
+California,Los Angeles County,Joe Biden,DEM,3028885,TRUE
+California,Los Angeles County,Donald Trump,REP,1145530,FALSE
+California,Los Angeles County,Jo Jorgensen,LIB,35452,FALSE
+California,Los Angeles County,Howie Hawkins,GRN,21660,FALSE
+California,Los Angeles County,Rocky De La Fuente,ALI,15999,FALSE
+California,Los Angeles County,Gloria La Riva,PSL,15917,FALSE
+California,Alameda County,Joe Biden,DEM,617659,TRUE
+California,Alameda County,Donald Trump,REP,136309,FALSE
+California,Alameda County,Jo Jorgensen,LIB,6295,FALSE
+California,Alameda County,Howie Hawkins,GRN,4664,FALSE
+California,Alameda County,Gloria La Riva,PSL,2538,FALSE
+California,Alameda County,Rocky De La Fuente,ALI,2399,FALSE
+California,Madera County,Donald Trump,REP,29378,TRUE
+California,Madera County,Joe Biden,DEM,23168,FALSE
+California,Madera County,Jo Jorgensen,LIB,621,FALSE
+California,Madera County,Howie Hawkins,GRN,217,FALSE
+California,Madera County,Rocky De La Fuente,ALI,173,FALSE
+California,Madera County,Gloria La Riva,PSL,165,FALSE
+California,Marin County,Joe Biden,DEM,128288,TRUE
+California,Marin County,Donald Trump,REP,24612,FALSE
+California,Marin County,Jo Jorgensen,LIB,1536,FALSE
+California,Marin County,Howie Hawkins,GRN,724,FALSE
+California,Marin County,Rocky De La Fuente,ALI,380,FALSE
+California,Marin County,Gloria La Riva,PSL,261,FALSE
+California,Marin County,Write-ins,WRI,0,FALSE
+California,Mariposa County,Donald Trump,REP,5950,TRUE
+California,Mariposa County,Joe Biden,DEM,4088,FALSE
+California,Mariposa County,Jo Jorgensen,LIB,155,FALSE
+California,Mariposa County,Howie Hawkins,GRN,39,FALSE
+California,Mariposa County,Rocky De La Fuente,ALI,26,FALSE
+California,Mariposa County,Gloria La Riva,PSL,22,FALSE
+California,Mendocino County,Joe Biden,DEM,28782,TRUE
+California,Mendocino County,Donald Trump,REP,13267,FALSE
+California,Mendocino County,Jo Jorgensen,LIB,591,FALSE
+California,Mendocino County,Howie Hawkins,GRN,394,FALSE
+California,Mendocino County,Gloria La Riva,PSL,179,FALSE
+California,Mendocino County,Rocky De La Fuente,ALI,123,FALSE
+California,Mendocino County,Write-ins,WRI,0,FALSE
+California,Merced County,Joe Biden,DEM,48991,TRUE
+California,Merced County,Donald Trump,REP,39397,FALSE
+California,Merced County,Jo Jorgensen,LIB,941,FALSE
+California,Merced County,Gloria La Riva,PSL,433,FALSE
+California,Merced County,Rocky De La Fuente,ALI,391,FALSE
+California,Merced County,Howie Hawkins,GRN,388,FALSE
+California,Modoc County,Donald Trump,REP,3109,TRUE
+California,Modoc County,Joe Biden,DEM,1150,FALSE
+California,Modoc County,Jo Jorgensen,LIB,39,FALSE
+California,Modoc County,Howie Hawkins,GRN,15,FALSE
+California,Modoc County,Rocky De La Fuente,ALI,13,FALSE
+California,Modoc County,Gloria La Riva,PSL,12,FALSE
+California,Mono County,Joe Biden,DEM,4013,TRUE
+California,Mono County,Donald Trump,REP,2513,FALSE
+California,Mono County,Jo Jorgensen,LIB,126,FALSE
+California,Mono County,Howie Hawkins,GRN,42,FALSE
+California,Mono County,Rocky De La Fuente,ALI,25,FALSE
+California,Mono County,Gloria La Riva,PSL,18,FALSE
+California,Monterey County,Joe Biden,DEM,113953,TRUE
+California,Monterey County,Donald Trump,REP,46299,FALSE
+California,Monterey County,Jo Jorgensen,LIB,1820,FALSE
+California,Monterey County,Howie Hawkins,GRN,749,FALSE
+California,Monterey County,Rocky De La Fuente,ALI,566,FALSE
+California,Monterey County,Gloria La Riva,PSL,496,FALSE
+California,Napa County,Joe Biden,DEM,49817,TRUE
+California,Napa County,Donald Trump,REP,20676,FALSE
+California,Napa County,Jo Jorgensen,LIB,914,FALSE
+California,Napa County,Howie Hawkins,GRN,310,FALSE
+California,Napa County,Rocky De La Fuente,ALI,241,FALSE
+California,Napa County,Gloria La Riva,PSL,164,FALSE
+California,Nevada County,Joe Biden,DEM,36359,TRUE
+California,Nevada County,Donald Trump,REP,26779,FALSE
+California,Nevada County,Jo Jorgensen,LIB,919,FALSE
+California,Nevada County,Howie Hawkins,GRN,345,FALSE
+California,Nevada County,Rocky De La Fuente,ALI,189,FALSE
+California,Nevada County,Gloria La Riva,PSL,147,FALSE
+California,Alpine County,Joe Biden,DEM,476,TRUE
+California,Alpine County,Donald Trump,REP,244,FALSE
+California,Alpine County,Jo Jorgensen,LIB,15,FALSE
+California,Alpine County,Howie Hawkins,GRN,4,FALSE
+California,Alpine County,Gloria La Riva,PSL,2,FALSE
+California,Alpine County,Rocky De La Fuente,ALI,0,FALSE
+California,Orange County,Joe Biden,DEM,814009,TRUE
+California,Orange County,Donald Trump,REP,676498,FALSE
+California,Orange County,Jo Jorgensen,LIB,17325,FALSE
+California,Orange County,Howie Hawkins,GRN,5819,FALSE
+California,Orange County,Rocky De La Fuente,ALI,4642,FALSE
+California,Orange County,Gloria La Riva,PSL,3432,FALSE
+California,Placer County,Donald Trump,REP,122488,TRUE
+California,Placer County,Joe Biden,DEM,106869,FALSE
+California,Placer County,Jo Jorgensen,LIB,3948,FALSE
+California,Placer County,Howie Hawkins,GRN,779,FALSE
+California,Placer County,Rocky De La Fuente,ALI,593,FALSE
+California,Placer County,Gloria La Riva,PSL,340,FALSE
+California,Plumas County,Donald Trump,REP,6445,TRUE
+California,Plumas County,Joe Biden,DEM,4561,FALSE
+California,Plumas County,Jo Jorgensen,LIB,153,FALSE
+California,Plumas County,Howie Hawkins,GRN,39,FALSE
+California,Plumas County,Rocky De La Fuente,ALI,31,FALSE
+California,Plumas County,Gloria La Riva,PSL,27,FALSE
+California,Riverside County,Joe Biden,DEM,527945,TRUE
+California,Riverside County,Donald Trump,REP,448702,FALSE
+California,Riverside County,Jo Jorgensen,LIB,9962,FALSE
+California,Riverside County,Rocky De La Fuente,ALI,3390,FALSE
+California,Riverside County,Howie Hawkins,GRN,3368,FALSE
+California,Riverside County,Gloria La Riva,PSL,2789,FALSE
+California,Sacramento County,Joe Biden,DEM,440808,TRUE
+California,Sacramento County,Donald Trump,REP,259405,FALSE
+California,Sacramento County,Jo Jorgensen,LIB,9770,FALSE
+California,Sacramento County,Howie Hawkins,GRN,3254,FALSE
+California,Sacramento County,Rocky De La Fuente,ALI,2630,FALSE
+California,Sacramento County,Gloria La Riva,PSL,2423,FALSE
+California,San Benito County,Joe Biden,DEM,17628,TRUE
+California,San Benito County,Donald Trump,REP,10590,FALSE
+California,San Benito County,Jo Jorgensen,LIB,345,FALSE
+California,San Benito County,Howie Hawkins,GRN,91,FALSE
+California,San Benito County,Rocky De La Fuente,ALI,84,FALSE
+California,San Benito County,Gloria La Riva,PSL,83,FALSE
+California,San Bernardino County,Joe Biden,DEM,455859,TRUE
+California,San Bernardino County,Donald Trump,REP,366257,FALSE
+California,San Bernardino County,Jo Jorgensen,LIB,8791,FALSE
+California,San Bernardino County,Howie Hawkins,GRN,3619,FALSE
+California,San Bernardino County,Rocky De La Fuente,ALI,3355,FALSE
+California,San Bernardino County,Gloria La Riva,PSL,3050,FALSE
+California,San Diego County,Joe Biden,DEM,964650,TRUE
+California,San Diego County,Donald Trump,REP,600094,FALSE
+California,San Diego County,Jo Jorgensen,LIB,21386,FALSE
+California,San Diego County,Howie Hawkins,GRN,7421,FALSE
+California,San Diego County,Rocky De La Fuente,ALI,5302,FALSE
+California,San Diego County,Gloria La Riva,PSL,2869,FALSE
+California,San Francisco County,Joe Biden,DEM,378156,TRUE
+California,San Francisco County,Donald Trump,REP,56417,FALSE
+California,San Francisco County,Jo Jorgensen,LIB,3299,FALSE
+California,San Francisco County,Howie Hawkins,GRN,2781,FALSE
+California,San Francisco County,Gloria La Riva,PSL,1543,FALSE
+California,San Francisco County,Rocky De La Fuente,ALI,1262,FALSE
+California,San Francisco County,Write-ins,WRI,0,FALSE
+California,San Joaquin County,Joe Biden,DEM,161137,TRUE
+California,San Joaquin County,Donald Trump,REP,121098,FALSE
+California,San Joaquin County,Jo Jorgensen,LIB,2929,FALSE
+California,San Joaquin County,Rocky De La Fuente,ALI,1251,FALSE
+California,San Joaquin County,Howie Hawkins,GRN,1064,FALSE
+California,San Joaquin County,Gloria La Riva,PSL,964,FALSE
+California,Amador County,Donald Trump,REP,13585,TRUE
+California,Amador County,Joe Biden,DEM,8153,FALSE
+California,Amador County,Jo Jorgensen,LIB,349,FALSE
+California,Amador County,Howie Hawkins,GRN,110,FALSE
+California,Amador County,Rocky De La Fuente,ALI,64,FALSE
+California,Amador County,Gloria La Riva,PSL,41,FALSE
+California,San Luis Obispo County,Joe Biden,DEM,88310,TRUE
+California,San Luis Obispo County,Donald Trump,REP,67436,FALSE
+California,San Luis Obispo County,Jo Jorgensen,LIB,2408,FALSE
+California,San Luis Obispo County,Howie Hawkins,GRN,794,FALSE
+California,San Luis Obispo County,Rocky De La Fuente,ALI,455,FALSE
+California,San Luis Obispo County,Gloria La Riva,PSL,278,FALSE
+California,San Mateo County,Joe Biden,DEM,291410,TRUE
+California,San Mateo County,Donald Trump,REP,75563,FALSE
+California,San Mateo County,Jo Jorgensen,LIB,3552,FALSE
+California,San Mateo County,Howie Hawkins,GRN,1595,FALSE
+California,San Mateo County,Rocky De La Fuente,ALI,1142,FALSE
+California,San Mateo County,Gloria La Riva,PSL,796,FALSE
+California,San Mateo County,Write-ins,WRI,80,FALSE
+California,Santa Barbara County,Joe Biden,DEM,129963,TRUE
+California,Santa Barbara County,Donald Trump,REP,65736,FALSE
+California,Santa Barbara County,Jo Jorgensen,LIB,2416,FALSE
+California,Santa Barbara County,Howie Hawkins,GRN,939,FALSE
+California,Santa Barbara County,Rocky De La Fuente,ALI,714,FALSE
+California,Santa Barbara County,Gloria La Riva,PSL,520,FALSE
+California,Santa Barbara County,Write-ins,WRI,0,FALSE
+California,Santa Clara County,Joe Biden,DEM,617967,TRUE
+California,Santa Clara County,Donald Trump,REP,214612,FALSE
+California,Santa Clara County,Jo Jorgensen,LIB,9131,FALSE
+California,Santa Clara County,Howie Hawkins,GRN,4040,FALSE
+California,Santa Clara County,Rocky De La Fuente,ALI,2623,FALSE
+California,Santa Clara County,Gloria La Riva,PSL,2149,FALSE
+California,Santa Cruz County,Joe Biden,DEM,114246,TRUE
+California,Santa Cruz County,Donald Trump,REP,26937,FALSE
+California,Santa Cruz County,Jo Jorgensen,LIB,1704,FALSE
+California,Santa Cruz County,Howie Hawkins,GRN,1062,FALSE
+California,Santa Cruz County,Rocky De La Fuente,ALI,434,FALSE
+California,Santa Cruz County,Gloria La Riva,PSL,413,FALSE
+California,Santa Cruz County,Write-ins,WRI,0,FALSE
+California,Shasta County,Donald Trump,REP,60789,TRUE
+California,Shasta County,Joe Biden,DEM,30000,FALSE
+California,Shasta County,Jo Jorgensen,LIB,1277,FALSE
+California,Shasta County,Howie Hawkins,GRN,368,FALSE
+California,Shasta County,Rocky De La Fuente,ALI,281,FALSE
+California,Shasta County,Gloria La Riva,PSL,185,FALSE
+California,Shasta County,Write-ins,WRI,0,FALSE
+California,Sierra County,Donald Trump,REP,1142,TRUE
+California,Sierra County,Joe Biden,DEM,730,FALSE
+California,Sierra County,Jo Jorgensen,LIB,27,FALSE
+California,Sierra County,Howie Hawkins,GRN,13,FALSE
+California,Sierra County,Rocky De La Fuente,ALI,12,FALSE
+California,Sierra County,Gloria La Riva,PSL,6,FALSE
+California,Sierra County,Write-ins,WRI,0,FALSE
+California,Siskiyou County,Donald Trump,REP,13290,TRUE
+California,Siskiyou County,Joe Biden,DEM,9593,FALSE
+California,Siskiyou County,Jo Jorgensen,LIB,318,FALSE
+California,Siskiyou County,Howie Hawkins,GRN,116,FALSE
+California,Siskiyou County,Rocky De La Fuente,ALI,79,FALSE
+California,Siskiyou County,Gloria La Riva,PSL,54,FALSE
+California,Siskiyou County,Write-ins,WRI,0,FALSE
+California,Solano County,Joe Biden,DEM,131639,TRUE
+California,Solano County,Donald Trump,REP,69306,FALSE
+California,Solano County,Jo Jorgensen,LIB,2475,FALSE
+California,Solano County,Howie Hawkins,GRN,958,FALSE
+California,Solano County,Rocky De La Fuente,ALI,825,FALSE
+California,Solano County,Gloria La Riva,PSL,628,FALSE
+California,Sonoma County,Joe Biden,DEM,199938,TRUE
+California,Sonoma County,Donald Trump,REP,61825,FALSE
+California,Sonoma County,Jo Jorgensen,LIB,3418,FALSE
+California,Sonoma County,Howie Hawkins,GRN,1499,FALSE
+California,Sonoma County,Rocky De La Fuente,ALI,832,FALSE
+California,Sonoma County,Gloria La Riva,PSL,740,FALSE
+California,Sonoma County,Write-ins,WRI,0,FALSE
+California,Butte County,Joe Biden,DEM,50426,TRUE
+California,Butte County,Donald Trump,REP,48730,FALSE
+California,Butte County,Jo Jorgensen,LIB,1774,FALSE
+California,Butte County,Howie Hawkins,GRN,507,FALSE
+California,Butte County,Rocky De La Fuente,ALI,324,FALSE
+California,Butte County,Gloria La Riva,PSL,281,FALSE
+California,Butte County,Write-ins,WRI,0,FALSE
+California,Stanislaus County,Joe Biden,DEM,105841,TRUE
+California,Stanislaus County,Donald Trump,REP,104145,FALSE
+California,Stanislaus County,Jo Jorgensen,LIB,2494,FALSE
+California,Stanislaus County,Rocky De La Fuente,ALI,926,FALSE
+California,Stanislaus County,Howie Hawkins,GRN,742,FALSE
+California,Stanislaus County,Gloria La Riva,PSL,728,FALSE
+California,Sutter County,Donald Trump,REP,24375,TRUE
+California,Sutter County,Joe Biden,DEM,17367,FALSE
+California,Sutter County,Jo Jorgensen,LIB,521,FALSE
+California,Sutter County,Howie Hawkins,GRN,136,FALSE
+California,Sutter County,Rocky De La Fuente,ALI,126,FALSE
+California,Sutter County,Gloria La Riva,PSL,115,FALSE
+California,Tehama County,Donald Trump,REP,19141,TRUE
+California,Tehama County,Joe Biden,DEM,8911,FALSE
+California,Tehama County,Jo Jorgensen,LIB,403,FALSE
+California,Tehama County,Rocky De La Fuente,ALI,111,FALSE
+California,Tehama County,Howie Hawkins,GRN,90,FALSE
+California,Tehama County,Gloria La Riva,PSL,65,FALSE
+California,Trinity County,Donald Trump,REP,3188,TRUE
+California,Trinity County,Joe Biden,DEM,2851,FALSE
+California,Trinity County,Jo Jorgensen,LIB,117,FALSE
+California,Trinity County,Howie Hawkins,GRN,50,FALSE
+California,Trinity County,Rocky De La Fuente,ALI,27,FALSE
+California,Trinity County,Gloria La Riva,PSL,25,FALSE
+California,Trinity County,Write-ins,WRI,0,FALSE
+California,Tulare County,Donald Trump,REP,77579,TRUE
+California,Tulare County,Joe Biden,DEM,66105,FALSE
+California,Tulare County,Jo Jorgensen,LIB,1498,FALSE
+California,Tulare County,Rocky De La Fuente,ALI,632,FALSE
+California,Tulare County,Gloria La Riva,PSL,535,FALSE
+California,Tulare County,Howie Hawkins,GRN,483,FALSE
+California,Tuolumne County,Donald Trump,REP,17689,TRUE
+California,Tuolumne County,Joe Biden,DEM,11978,FALSE
+California,Tuolumne County,Jo Jorgensen,LIB,439,FALSE
+California,Tuolumne County,Howie Hawkins,GRN,145,FALSE
+California,Tuolumne County,Rocky De La Fuente,ALI,91,FALSE
+California,Tuolumne County,Gloria La Riva,PSL,59,FALSE
+California,Ventura County,Joe Biden,DEM,251388,TRUE
+California,Ventura County,Donald Trump,REP,162207,FALSE
+California,Ventura County,Jo Jorgensen,LIB,5069,FALSE
+California,Ventura County,Howie Hawkins,GRN,1766,FALSE
+California,Ventura County,Rocky De La Fuente,ALI,1278,FALSE
+California,Ventura County,Gloria La Riva,PSL,990,FALSE
+California,Yolo County,Joe Biden,DEM,67598,TRUE
+California,Yolo County,Donald Trump,REP,27292,FALSE
+California,Yolo County,Jo Jorgensen,LIB,1206,FALSE
+California,Yolo County,Howie Hawkins,GRN,547,FALSE
+California,Yolo County,Gloria La Riva,PSL,323,FALSE
+California,Yolo County,Rocky De La Fuente,ALI,298,FALSE
+California,Yuba County,Donald Trump,REP,17676,TRUE
+California,Yuba County,Joe Biden,DEM,11230,FALSE
+California,Yuba County,Jo Jorgensen,LIB,510,FALSE
+California,Yuba County,Rocky De La Fuente,ALI,153,FALSE
+California,Yuba County,Howie Hawkins,GRN,124,FALSE
+California,Yuba County,Gloria La Riva,PSL,94,FALSE
+California,Calaveras County,Donald Trump,REP,16518,TRUE
+California,Calaveras County,Joe Biden,DEM,10046,FALSE
+California,Calaveras County,Jo Jorgensen,LIB,359,FALSE
+California,Calaveras County,Howie Hawkins,GRN,125,FALSE
+California,Calaveras County,Rocky De La Fuente,ALI,72,FALSE
+California,Calaveras County,Gloria La Riva,PSL,44,FALSE
+California,Colusa County,Donald Trump,REP,4554,TRUE
+California,Colusa County,Joe Biden,DEM,3234,FALSE
+California,Colusa County,Jo Jorgensen,LIB,81,FALSE
+California,Colusa County,Rocky De La Fuente,ALI,30,FALSE
+California,Colusa County,Gloria La Riva,PSL,27,FALSE
+California,Colusa County,Howie Hawkins,GRN,25,FALSE
+California,Contra Costa County,Joe Biden,DEM,416386,TRUE
+California,Contra Costa County,Donald Trump,REP,152877,FALSE
+California,Contra Costa County,Jo Jorgensen,LIB,6116,FALSE
+California,Contra Costa County,Howie Hawkins,GRN,2618,FALSE
+California,Contra Costa County,Rocky De La Fuente,ALI,1949,FALSE
+California,Contra Costa County,Gloria La Riva,PSL,1284,FALSE
+California,Del Norte County,Donald Trump,REP,6461,TRUE
+California,Del Norte County,Joe Biden,DEM,4677,FALSE
+California,Del Norte County,Jo Jorgensen,LIB,150,FALSE
+California,Del Norte County,Howie Hawkins,GRN,78,FALSE
+California,Del Norte County,Rocky De La Fuente,ALI,53,FALSE
+California,Del Norte County,Gloria La Riva,PSL,33,FALSE
+California,El Dorado County,Donald Trump,REP,61838,TRUE
+California,El Dorado County,Joe Biden,DEM,51621,FALSE
+California,El Dorado County,Jo Jorgensen,LIB,1871,FALSE
+California,El Dorado County,Howie Hawkins,GRN,460,FALSE
+California,El Dorado County,Rocky De La Fuente,ALI,240,FALSE
+California,El Dorado County,Gloria La Riva,PSL,108,FALSE
